@@ -1,0 +1,4 @@
+# Allow crawling of all content
+User-agent: *
+Disallow: /
+Sitemap: http://l4a.gr/sitemap.xml
