@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>L4A • Lighting for Architecture</title>
+    
+
+    <title>Lighting for Architecture</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.3.0</generator>
-		<icon>/apple-touch-icon-precomposed.png</icon>
+		<icon>http://l4a.gr/apple-touch-icon-precomposed.png</icon>
     <subtitle>Personal website of designer slash illustrator Michael Rose.</subtitle>
-    <link href="/atom.xml" rel="self"/>
-    <link href="/" rel="alternate" type="text/html"/>
-    <updated>2014-08-20T15:36:55+03:00</updated>
-    <id>/</id>
+    <link href="http://l4a.gr/atom.xml" rel="self"/>
+    <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
+    <updated>2014-08-21T16:24:25+03:00</updated>
+    <id>http://l4a.gr/</id>
     <author>
 			<name>Nikos Varopoulos</name>
-			<uri>/</uri>
+			<uri>http://l4a.gr/</uri>
 			<email>varopoulos@gmail.com</email>
 		</author>
 
     
     <entry>
         <title>Route67</title>
-        <link href="/projects/route67/"/>
+        <link href="http://l4a.gr/projects/route67/"/>
         <updated>2014-08-04T14:06:07+03:00</updated>
-        <id>/projects/route67</id>
+        <id>http://l4a.gr/projects/route67</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/route67-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/route67-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Lighting for the Route67 store in Athens (Adrianou 67, Plaka).&lt;/p&gt;
 
 &lt;ul&gt;
@@ -39,19 +41,19 @@
 &lt;p&gt;All images courtesy of Rania Remoundou. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/route67-01.jpg&quot; alt=&quot;Root 67&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/route67-01.jpg&quot; alt=&quot;Root 67&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/route67-02.jpg&quot; alt=&quot;Root 67&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/route67-02.jpg&quot; alt=&quot;Root 67&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/route67-04.jpg&quot; alt=&quot;Root 67&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/route67-04.jpg&quot; alt=&quot;Root 67&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/route67-03.jpg&quot; alt=&quot;Root 67&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/route67-03.jpg&quot; alt=&quot;Root 67&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -59,16 +61,16 @@
     
     <entry>
         <title>This Show is about DIVERCITY</title>
-        <link href="/projects/this-show-is-about-divercity/"/>
+        <link href="http://l4a.gr/projects/this-show-is-about-divercity/"/>
         <updated>2014-07-20T00:00:00+03:00</updated>
-        <id>/projects/this-show-is-about-divercity</id>
+        <id>http://l4a.gr/projects/this-show-is-about-divercity</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/this-show-is-about-divercity-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/this-show-is-about-divercity-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Lighting curation for the exhibition “This Show is about DIVERCITY” that presents &lt;a href=&quot;http://divercityarchitects.com&quot;&gt;Divercity&lt;/a&gt;, an award-winning architecture practice with offices in London (2008, RIBA Chartered Practice) and Athens (2006).&lt;/p&gt;
 
 &lt;ul&gt;
@@ -81,11 +83,11 @@
 &lt;p&gt;All images courtesy of Divercity. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/this-show-is-about-divercity-02.jpg&quot; alt=&quot;This Show is about DIVERCITY&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/this-show-is-about-divercity-02.jpg&quot; alt=&quot;This Show is about DIVERCITY&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/this-show-is-about-divercity-03.jpg&quot; alt=&quot;This Show is about DIVERCITY&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/this-show-is-about-divercity-03.jpg&quot; alt=&quot;This Show is about DIVERCITY&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -93,16 +95,16 @@
     
     <entry>
         <title>Competition for the redesign of Katehaki Square</title>
-        <link href="/articles/competition-for-the-redesign-of-katehaki-square/"/>
+        <link href="http://l4a.gr/articles/competition-for-the-redesign-of-katehaki-square/"/>
         <updated>2014-07-18T00:00:00+03:00</updated>
-        <id>/articles/competition-for-the-redesign-of-katehaki-square</id>
+        <id>http://l4a.gr/articles/competition-for-the-redesign-of-katehaki-square</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/competition-for-the-redesign-of-katehaki-square-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/competition-for-the-redesign-of-katehaki-square-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Congratulations to &lt;a href=&quot;http://www.georgesbatzios.com/&quot;&gt;George Batzios&lt;/a&gt; and his team for the &lt;a href=&quot;http://www.dlx.gr/%CE%AD%CE%B3%CE%BA%CF%81%CE%B9%CF%83%CE%B7-%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B1%CF%81%CF%87%CE%B9%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD&quot;&gt;2nd prize&lt;/a&gt; in the competition for the redesign of Katehaki Square (Chania, Crete).&lt;/p&gt;
 
 &lt;p&gt;We are very happy that we assisted in the lighting design. Experts and non experts agree that his proposal deserved the 1st prize.&lt;/p&gt;
@@ -112,16 +114,16 @@
     
     <entry>
         <title>Apartment in Athens</title>
-        <link href="/projects/apartment-in-athens/"/>
+        <link href="http://l4a.gr/projects/apartment-in-athens/"/>
         <updated>2014-06-27T00:00:00+03:00</updated>
-        <id>/projects/apartment-in-athens</id>
+        <id>http://l4a.gr/projects/apartment-in-athens</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/apartment-in-athens-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Lighting for an apartment in Athens downtown.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -132,23 +134,23 @@
 &lt;p&gt;All images courtesy of People. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/apartment-in-athens-01.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-01.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/apartment-in-athens-02.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-02.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/apartment-in-athens-03.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-03.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/apartment-in-athens-04.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-04.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/apartment-in-athens-05.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-05.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -156,16 +158,16 @@
     
     <entry>
         <title>33 Adrianou</title>
-        <link href="/projects/33adrianou/"/>
+        <link href="http://l4a.gr/projects/33adrianou/"/>
         <updated>2014-06-23T00:00:00+03:00</updated>
-        <id>/projects/33adrianou</id>
+        <id>http://l4a.gr/projects/33adrianou</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/33adrianou-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/33adrianou-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;33 Adrianou Café Bar &amp;amp; Restaurant at Monastiraki, Athens.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -176,15 +178,15 @@
 &lt;p&gt;All images courtesy of Yannis Koniaris. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/33adrianou-01.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/33adrianou-01.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/33adrianou-03.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/33adrianou-03.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/33adrianou-04.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/33adrianou-04.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -192,12 +194,12 @@
     
     <entry>
         <title>The Greek Pavilion at the 14th Biennale</title>
-        <link href="/projects/the-greek-pavilion-at-the-14th-biennale/"/>
+        <link href="http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale/"/>
         <updated>2014-06-18T00:00:00+03:00</updated>
-        <id>/projects/the-greek-pavilion-at-the-14th-biennale</id>
+        <id>http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -219,23 +221,23 @@
 &lt;p&gt;All images courtesy of the organizers. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/the-greek-pavilion-at-the-14th-biennale-01.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-01.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/the-greek-pavilion-at-the-14th-biennale-02.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-02.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/the-greek-pavilion-at-the-14th-biennale-03.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-03.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/the-greek-pavilion-at-the-14th-biennale-04.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-04.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/the-greek-pavilion-at-the-14th-biennale-05.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-05.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -243,12 +245,12 @@
     
     <entry>
         <title>Nikos Koulis, Mykonos</title>
-        <link href="/projects/nikos-koulis-mykonos/"/>
+        <link href="http://l4a.gr/projects/nikos-koulis-mykonos/"/>
         <updated>2014-05-27T00:00:00+03:00</updated>
-        <id>/projects/nikos-koulis-mykonos</id>
+        <id>http://l4a.gr/projects/nikos-koulis-mykonos</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -266,19 +268,19 @@
 &lt;p&gt;All images courtesy of Stage Design Office. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/nikos-koulis-mykonos-04.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-04.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/nikos-koulis-mykonos-01.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-01.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/nikos-koulis-mykonos-02.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-02.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/nikos-koulis-mykonos-03.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-03.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -286,16 +288,16 @@
     
     <entry>
         <title>Royal Botania</title>
-        <link href="/articles/royal-botania/"/>
+        <link href="http://l4a.gr/articles/royal-botania/"/>
         <updated>2014-05-23T00:00:00+03:00</updated>
-        <id>/articles/royal-botania</id>
+        <id>http://l4a.gr/articles/royal-botania</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/royal-botania-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/royal-botania-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;We are excited to announce the beginning of our exclusive partnership with &lt;a href=&quot;link: http://www.royalbotania.com/catalog/outdoor-lighting&quot;&gt;Royal Botania&lt;/a&gt; regarding its Outdoor Lighting Collection.&lt;/p&gt;
 
 &lt;p&gt;Royal Botania uses superior natural materials: premium Javanese plantation teak, granite, stainless steel, glass. When placed outside all the Royal Botania lighting models will integrate into their natural environment. Most of the lamps are designed to use energy-saving light bulbs with low energy consumption and LED.&lt;/p&gt;
@@ -305,16 +307,16 @@
     
     <entry>
         <title>Tourism Landscapes: Remaking Greece</title>
-        <link href="/articles/architecture-biennale-2014/"/>
+        <link href="http://l4a.gr/articles/architecture-biennale-2014/"/>
         <updated>2014-05-22T00:00:00+03:00</updated>
-        <id>/articles/architecture-biennale-2014</id>
+        <id>http://l4a.gr/articles/architecture-biennale-2014</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/architecture-biennale-2014-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/architecture-biennale-2014-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Greece will participate in the 14th International Architecture Exhibition - La Biennale di Venezia (07/06 - 23/11/2014). The Greek participation is directed and curated by the national commissioner, architect and professor Yannis Aesopos, under the title “Tourism Landscapes: Remaking Greece”.&lt;/p&gt;
 
 &lt;p&gt;It explores the role of tourism as a vehicle of modernization of Greece through the emergence of constructed tourism landscapes: hotels and resorts, organized beaches, archaeological sites and museums, public space designs and infrastructure facilities. Moreover, it focuses on the concurrent (re)shaping of Greek national identity that is enhanced through the contact of the “other”, the foreign, new and global element, which the activity of tourism presupposes. L4A and iGuzzini are special supporters.&lt;/p&gt;
@@ -329,16 +331,16 @@
     
     <entry>
         <title>Athens International Airport, Central Food Court</title>
-        <link href="/projects/aia-central-food-court/"/>
+        <link href="http://l4a.gr/projects/aia-central-food-court/"/>
         <updated>2014-05-19T00:00:00+03:00</updated>
-        <id>/projects/aia-central-food-court</id>
+        <id>http://l4a.gr/projects/aia-central-food-court</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/aia-central-food-court-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Athens International Airport “Eleftherios Venizelos”, began operation on 29 March 2001 and is the primary civilian airport that serves the city of Athens and the region of Attica.&lt;/p&gt;
 
 &lt;p&gt;It is Greece’s biggest airport and serves as the hub and base of Aegean Airlines and its subsidiary Olympic Air. The airport serves just under 13 million passengers annually.&lt;/p&gt;
@@ -353,11 +355,11 @@
 &lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/aia-central-food-court-01.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-01.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/aia-central-food-court-02.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-02.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -365,16 +367,16 @@
     
     <entry>
         <title>Folli Follie Baselworld 2014</title>
-        <link href="/projects/folli-follie-baselworld-2014/"/>
+        <link href="http://l4a.gr/projects/folli-follie-baselworld-2014/"/>
         <updated>2014-04-14T00:00:00+03:00</updated>
-        <id>/projects/folli-follie-baselworld-2014</id>
+        <id>http://l4a.gr/projects/folli-follie-baselworld-2014</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/folli-follie-baselworld-2014-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Folli Follie Group participated in Baselworld, the world watch and jewellery show, in Basel, Switzerland, from 8th to 15th of March.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -386,15 +388,15 @@
 &lt;p&gt;All images courtesy of Folli Follie. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/folli-follie-baselworld-2014-01.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-01.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/folli-follie-baselworld-2014-02.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-02.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/folli-follie-baselworld-2014-03.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-03.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -402,16 +404,16 @@
     
     <entry>
         <title>Links of London</title>
-        <link href="/projects/links-of-london/"/>
+        <link href="http://l4a.gr/projects/links-of-london/"/>
         <updated>2014-04-11T00:00:00+03:00</updated>
-        <id>/projects/links-of-london</id>
+        <id>http://l4a.gr/projects/links-of-london</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/links-of-london-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/links-of-london-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Links of London is a leading aspirational British jewellery brand, offering striking jewellery collections, statement watches and a selection of exquisite gifts.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -423,15 +425,15 @@
 &lt;p&gt;All images courtesy of Folli Follie. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/links-of-london-01.jpg&quot; alt=&quot;Links of London&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/links-of-london-01.jpg&quot; alt=&quot;Links of London&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/links-of-london-02.jpg&quot; alt=&quot;Links of London&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/links-of-london-02.jpg&quot; alt=&quot;Links of London&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/links-of-london-03.jpg&quot; alt=&quot;Links of London&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/links-of-london-03.jpg&quot; alt=&quot;Links of London&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -439,12 +441,12 @@
     
     <entry>
         <title>Polo Ralph Lauren Children</title>
-        <link href="/projects/polo-ralph-lauren-children/"/>
+        <link href="http://l4a.gr/projects/polo-ralph-lauren-children/"/>
         <updated>2014-03-31T00:00:00+03:00</updated>
-        <id>/projects/polo-ralph-lauren-children</id>
+        <id>http://l4a.gr/projects/polo-ralph-lauren-children</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -461,19 +463,19 @@
 &lt;p&gt;All images courtesy of Doriki Techniki. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/polo-ralph-lauren-children-01.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/polo-ralph-lauren-children-01.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/polo-ralph-lauren-children-02.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/polo-ralph-lauren-children-02.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/polo-ralph-lauren-children-03.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/polo-ralph-lauren-children-03.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/polo-ralph-lauren-children-04.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/polo-ralph-lauren-children-04.jpg&quot; alt=&quot;Polo Ralph Lauren Children&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -481,12 +483,12 @@
     
     <entry>
         <title>On the boards VIII</title>
-        <link href="/articles/on-the-boards-viii/"/>
+        <link href="http://l4a.gr/articles/on-the-boards-viii/"/>
         <updated>2014-03-26T00:00:00+02:00</updated>
-        <id>/articles/on-the-boards-viii</id>
+        <id>http://l4a.gr/articles/on-the-boards-viii</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -503,12 +505,12 @@
     
     <entry>
         <title>On the boards VII</title>
-        <link href="/articles/on-the-boards-vii/"/>
+        <link href="http://l4a.gr/articles/on-the-boards-vii/"/>
         <updated>2014-03-24T00:00:00+02:00</updated>
-        <id>/articles/on-the-boards-vii</id>
+        <id>http://l4a.gr/articles/on-the-boards-vii</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -518,8 +520,8 @@
 &lt;p&gt;The &lt;em&gt;first image&lt;/em&gt; on the left was produced by the humble &lt;em&gt;Relux&lt;/em&gt; and its internal raytracer. It took just 3-4 hours, starting from scratch, to finish and most of the time spent on adjusting the raytracer settings. Of course it’s not the best result on planet earth but it’s ok for everyday’s work and surely captures the real atmosphere of the space. Have in mind that this certain case (indirect lighitng + artificial skylight) is tough enough for every lighting software.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-  &lt;a href=&quot;/images/on-the-boards-vii-1.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-1.jpg&quot; alt=&quot;Relux&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;/images/on-the-boards-vii-2.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-2.jpg&quot; alt=&quot;Real image&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-1.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-1.jpg&quot; alt=&quot;Relux&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-2.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-2.jpg&quot; alt=&quot;Real image&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;Raytracing by Relux&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -528,12 +530,12 @@
     
     <entry>
         <title>On the boards VI</title>
-        <link href="/articles/on-the-boards-vi/"/>
+        <link href="http://l4a.gr/articles/on-the-boards-vi/"/>
         <updated>2014-03-18T00:00:00+02:00</updated>
-        <id>/articles/on-the-boards-vi</id>
+        <id>http://l4a.gr/articles/on-the-boards-vi</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -557,16 +559,16 @@
     
     <entry>
         <title>A jewel made in Greece</title>
-        <link href="/projects/jewel/"/>
+        <link href="http://l4a.gr/projects/jewel/"/>
         <updated>2014-03-13T00:00:00+02:00</updated>
-        <id>/projects/jewel</id>
+        <id>http://l4a.gr/projects/jewel</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/jewel-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/jewel-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;The design of the exhibition intented to a harmonious coexistense of 26 artists.&lt;/p&gt;
 
 &lt;p&gt;The composition of three display units for each artist is the key element. Its repetition defines the overall design system, imparting consistency and homogeneity in space. The basic lighting unit is a part of the composition suppling a distinct lighting level. It consists of 3 hanging lamps at different heights for each key element.&lt;/p&gt;
@@ -578,7 +580,7 @@
 &lt;p&gt;All images courtesy of apk architects. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/jewel-01.jpg&quot; alt=&quot;A jewel made in Greece&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/jewel-01.jpg&quot; alt=&quot;A jewel made in Greece&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -586,16 +588,16 @@
     
     <entry>
         <title>Novartis</title>
-        <link href="/projects/novartis/"/>
+        <link href="http://l4a.gr/projects/novartis/"/>
         <updated>2014-02-24T00:00:00+02:00</updated>
-        <id>/projects/novartis</id>
+        <id>http://l4a.gr/projects/novartis</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/novartis-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/novartis-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Novartis sells products in more than 150 countries, with its global headquarters in Basel, Switzerland.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -607,23 +609,23 @@
 &lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/novartis-01.jpg&quot; alt=&quot;Novartis&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/novartis-01.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/novartis-02.jpg&quot; alt=&quot;Novartis&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/novartis-02.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/novartis-03.jpg&quot; alt=&quot;Novartis&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/novartis-03.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/novartis-04.jpg&quot; alt=&quot;Novartis&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/novartis-04.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/novartis-05.jpg&quot; alt=&quot;Novartis&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/novartis-05.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -631,12 +633,12 @@
     
     <entry>
         <title>A jewel made in Greece</title>
-        <link href="/articles/a-jewel-made-in-greece/"/>
+        <link href="http://l4a.gr/articles/a-jewel-made-in-greece/"/>
         <updated>2014-02-14T00:00:00+02:00</updated>
-        <id>/articles/a-jewel-made-in-greece</id>
+        <id>http://l4a.gr/articles/a-jewel-made-in-greece</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -652,12 +654,12 @@
     
     <entry>
         <title>Ancho Mexican grill</title>
-        <link href="/projects/ancho/"/>
+        <link href="http://l4a.gr/projects/ancho/"/>
         <updated>2014-01-23T00:00:00+02:00</updated>
-        <id>/projects/ancho</id>
+        <id>http://l4a.gr/projects/ancho</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -673,11 +675,11 @@
 &lt;p&gt;All images courtesy of k+m architecture. Used under permission.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/ancho-02.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/ancho-02.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/ancho-01.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/ancho-01.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -685,16 +687,16 @@
     
     <entry>
         <title>Trikiklo</title>
-        <link href="/projects/trikiklo/"/>
+        <link href="http://l4a.gr/projects/trikiklo/"/>
         <updated>2013-12-27T00:00:00+02:00</updated>
-        <id>/projects/trikiklo</id>
+        <id>http://l4a.gr/projects/trikiklo</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/trikiklo-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/trikiklo-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;“Trikiklo focuses on a single idea – actually not just an idea but more of a passion. A passion which has made Trikiklo a remarkable company in the Greek baby/toddler field offering new inspiration to new parents.”&lt;/p&gt;
 
 &lt;ul&gt;
@@ -705,15 +707,15 @@
 &lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/trikiklo-03.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/trikiklo-03.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/trikiklo-01.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/trikiklo-01.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/trikiklo-02.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/trikiklo-02.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -721,12 +723,12 @@
     
     <entry>
         <title>Ilioupolis, architecture &amp; public space</title>
-        <link href="/articles/ilioupolis/"/>
+        <link href="http://l4a.gr/articles/ilioupolis/"/>
         <updated>2013-12-09T00:00:00+02:00</updated>
-        <id>/articles/ilioupolis</id>
+        <id>http://l4a.gr/articles/ilioupolis</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
@@ -744,16 +746,16 @@
     
     <entry>
         <title>Maria Callas exhibition</title>
-        <link href="/projects/maria-callas-exhibition/"/>
+        <link href="http://l4a.gr/projects/maria-callas-exhibition/"/>
         <updated>2013-12-06T00:00:00+02:00</updated>
-        <id>/projects/maria-callas-exhibition</id>
+        <id>http://l4a.gr/projects/maria-callas-exhibition</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/maria-callas-exhibition-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Temporary exhibition for the anniversary of Maria Callas’ 90th birthday at the hall where she first sang in 1938.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -764,11 +766,11 @@
 &lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;img src=&quot;/images/maria-callas-exhibition-01.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
+	&lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-01.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;/images/maria-callas-exhibition-02.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
+  &lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-02.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
@@ -776,16 +778,16 @@
     
     <entry>
         <title>Eleftherias square</title>
-        <link href="/articles/eleftherias-square/"/>
+        <link href="http://l4a.gr/articles/eleftherias-square/"/>
         <updated>2013-11-26T00:00:00+02:00</updated>
-        <id>/articles/eleftherias-square</id>
+        <id>http://l4a.gr/articles/eleftherias-square</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/eleftherias-square-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/eleftherias-square-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;Thessaloniki is a contemporary and at times subversive city. Modern and vibrant but also with an important past and role at the history of South-East Europe. Eleftherias Square, (Freedom Square), is a place identified with the history of the city and its people&lt;/p&gt;
 
 &lt;p&gt;Congratulations to Iro Bertaki, Christina Loukopoulou, Fotini Adrimi, Vasilis Kalisperakis and everyone in &lt;a href=&quot;http://blp.gr/&quot;&gt;blp architects&lt;/a&gt; for the &lt;a href=&quot;http://www.thessaloniki.gr/portal/page/portal/DioikitikesYpiresies/GenDnsiTexnYpiresion/DnsiAstSxedArxMeleton/Diagonismoi/C_Vraveio_diagonismou_gia_tin_anaplasi_tis_plateias_elefther&quot;&gt;third prize&lt;/a&gt; in the European competition for the Eleutherias Square (Thessaloniki). We are proud that we participated in the consulting team.&lt;/p&gt;
@@ -795,16 +797,16 @@
     
     <entry>
         <title>New office opening</title>
-        <link href="/articles/new-office-opening/"/>
+        <link href="http://l4a.gr/articles/new-office-opening/"/>
         <updated>2013-11-22T00:00:00+02:00</updated>
-        <id>/articles/new-office-opening</id>
+        <id>http://l4a.gr/articles/new-office-opening</id>
         <author>
 					<name>Nikos Varopoulos</name>
-					<uri>/</uri>
+					<uri>http://l4a.gr/</uri>
 					<email>varopoulos@gmail.com</email>
 				</author>
         <content type="html">
-        	&lt;img src=&quot;/images/new-office-opening-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;img src=&quot;http://l4a.gr/images/new-office-opening-featured.jpg&quot;&gt;&lt;br/&gt;
         	&lt;p&gt;We’re delighted to announce the opening of our new Thessaloniki office.&lt;/p&gt;
 
 &lt;p&gt;It’ll be fully functional by early December at 5 Morkentaou Street &amp;amp; Proxenou Koromila.&lt;/p&gt;
