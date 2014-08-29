@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-08-29T14:40:33+03:00</updated>
+    <updated>2014-08-29T14:47:18+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>Nikos Varopoulos</name>
@@ -269,10 +269,6 @@
 
 &lt;figure&gt;
   &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-04.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-01.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;figure&gt;
