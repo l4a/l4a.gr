@@ -257,42 +257,126 @@
   
   <url>
     <loc>http://l4a.gr/contact/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://l4a.gr/about/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://l4a.gr/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://l4a.gr/projects/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://l4a.gr/tag/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://l4a.gr/articles/</loc>
-    <lastmod>2014-08-29T12:15:07+03:00</lastmod>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/theory/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/viewpoints/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/daylighting/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/on-the-boards/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/news/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/funny/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/commercial-corporate/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/lighting-simulation/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/retail/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/residential/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/cultural/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://l4a.gr/tag/hospitality/</loc>
+    <lastmod>2014-08-29T14:40:33+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
