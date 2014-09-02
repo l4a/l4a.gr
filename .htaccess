@@ -5,18 +5,20 @@
 #
 # php_flag short_open_tag on
 
+ErrorDocument 404 /404.html
+
 # leverage browser cache
-# <IfModule mod_expires.c>
-# ExpiresActive On
-# ExpiresByType text/css "access 1 month"
-# ExpiresByType image/gif "access 1 year"
-# ExpiresByType image/png "access 1 year"
-# ExpiresByType image/jpg "access 1 year"
-# ExpiresByType image/jpeg "access 1 year"
-# ExpiresByType text/javascript "access 1 week"
-# ExpiresByType application/pdf "access 1 year"
-# ExpiresDefault "access 7 days"
-# </IfModule>
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/css "access 1 month"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType text/javascript "access 1 week"
+ExpiresByType application/pdf "access 1 year"
+ExpiresDefault "access 7 days"
+</IfModule>
 
 # compress text, html, javascript, css, xml:
 AddOutputFilterByType DEFLATE text/css
