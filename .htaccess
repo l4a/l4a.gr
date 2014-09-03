@@ -5,7 +5,7 @@
 #
 # php_flag short_open_tag on
 
-ErrorDocument 404 /404.html
+# ErrorDocument 404 /404.html
 
 # leverage browser cache
 <IfModule mod_expires.c>
