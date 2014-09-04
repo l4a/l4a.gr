@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-09-03T22:48:53+03:00</updated>
+    <updated>2014-09-04T15:02:05+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,25 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>On the boards IX</title>
+        <link href="http://l4a.gr/articles/on-the-boards-ix/"/>
+        <updated>2014-09-04T14:27:38+03:00</updated>
+        <id>http://l4a.gr/articles/on-the-boards-ix</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/house-at-tirana-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Exterior lighting for a house at Tirana (Albania). Raytraced with Relux.&lt;/p&gt;
+
+&lt;p&gt;Its internal port of Radiance (called Vision) seems outdated and slow, but it’s easy to use and reliable. Radiance since 1985 is the most generally useful software package for architectural lighting simulation and often serves as the underlying simulation engine for many other packages.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Route67</title>
@@ -787,25 +806,6 @@
         	&lt;p&gt;Thessaloniki is a contemporary and at times subversive city. Modern and vibrant but also with an important past and role at the history of South-East Europe. Eleftherias Square, (Freedom Square), is a place identified with the history of the city and its people&lt;/p&gt;
 
 &lt;p&gt;Congratulations to Iro Bertaki, Christina Loukopoulou, Fotini Adrimi, Vasilis Kalisperakis and everyone in &lt;a href=&quot;http://blp.gr/&quot;&gt;blp architects&lt;/a&gt; for the &lt;a href=&quot;http://www.thessaloniki.gr/portal/page/portal/DioikitikesYpiresies/GenDnsiTexnYpiresion/DnsiAstSxedArxMeleton/Diagonismoi/C_Vraveio_diagonismou_gia_tin_anaplasi_tis_plateias_elefther&quot;&gt;third prize&lt;/a&gt; in the European competition for the Eleutherias Square (Thessaloniki). We are proud that we participated in the consulting team.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>New office opening</title>
-        <link href="http://l4a.gr/articles/new-office-opening/"/>
-        <updated>2013-11-22T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/new-office-opening</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/new-office-opening-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;We’re delighted to announce the opening of our new Thessaloniki office.&lt;/p&gt;
-
-&lt;p&gt;It’ll be fully functional by early December at 5 Morkentaou Street &amp;amp; Proxenou Koromila.&lt;/p&gt;
 
         </content>
     </entry>
