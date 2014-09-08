@@ -20,9 +20,4 @@ ErrorDocument 404 /404/index.html
 # ExpiresDefault "access 7 days"
 # </IfModule>
 
-# compress text, html, javascript, css, xml:
-AddOutputFilterByType DEFLATE text/css
-AddOutputFilterByType DEFLATE application/javascript
-AddOutputFilterByType DEFLATE application/x-javascript
-
 Options All -Indexes
