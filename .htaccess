@@ -414,17 +414,17 @@ RewriteRule [^/]$ %{REQUEST_URI}.html [QSA,L]
 # Feed redirects
 # ----------------------------------------------------------------------
 
-# redirect 301 /atom/ http://feeds.feedburner.com/MadeMistakes
-# redirect 301 /rss/ http://feeds.feedburner.com/MadeMistakes
-# redirect 301 /feed.xml http://feeds.feedburner.com/MadeMistakes
+redirect 301 /atom/ http://feeds.feedburner.com/LightingForArchitecture
+redirect 301 /rss/ http://feeds.feedburner.com/LightingForArchitecture
+redirect 301 /feed.xml http://feeds.feedburner.com/LightingForArchitecture
 
 # ----------------------------------------------------------------------
 # Sitemap redirects
 # ----------------------------------------------------------------------
 
-# redirect 301 /sitemap.xml.gz http://mademistakes.com/sitemap.xml
-# redirect 301 /post-sitemap.xml http://mademistakes.com/sitemap.xml
-# redirect 301 /category-sitemap.xml http://mademistakes.com/sitemap.xml
+redirect 301 /sitemap.xml.gz http://l4a.gr/sitemap.xml
+redirect 301 /post-sitemap.xml http://l4a.gr/sitemap.xml
+redirect 301 /category-sitemap.xml http://l4a.gr/sitemap.xml
 
 # ----------------------------------------------------------------------
 # Page redirects
