@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-09-15T09:08:41+03:00</updated>
+    <updated>2014-09-15T12:25:49+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,28 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>Olympiacos&#39; locker rooms</title>
+        <link href="http://l4a.gr/articles/olympiacos-locker-rooms/"/>
+        <updated>2014-09-15T12:08:02+03:00</updated>
+        <id>http://l4a.gr/articles/olympiacos-locker-rooms</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;figure class=&quot;large&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/_49BclLRf-M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;figcaption&gt;Olympiacos&#39; new locker rooms.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Photoshoot coming soon…&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>On the boards IX</title>
@@ -787,25 +809,6 @@
 &lt;figure&gt;
   &lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-02.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
 &lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Eleftherias square</title>
-        <link href="http://l4a.gr/articles/eleftherias-square/"/>
-        <updated>2013-11-26T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/eleftherias-square</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/eleftherias-square-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Thessaloniki is a contemporary and at times subversive city. Modern and vibrant but also with an important past and role at the history of South-East Europe. Eleftherias Square, (Freedom Square), is a place identified with the history of the city and its people&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Iro Bertaki, Christina Loukopoulou, Fotini Adrimi, Vasilis Kalisperakis and everyone in &lt;a href=&quot;http://blp.gr/&quot;&gt;blp architects&lt;/a&gt; for the &lt;a href=&quot;http://www.thessaloniki.gr/portal/page/portal/DioikitikesYpiresies/GenDnsiTexnYpiresion/DnsiAstSxedArxMeleton/Diagonismoi/C_Vraveio_diagonismou_gia_tin_anaplasi_tis_plateias_elefther&quot;&gt;third prize&lt;/a&gt; in the European competition for the Eleutherias Square (Thessaloniki). We are proud that we participated in the consulting team.&lt;/p&gt;
 
         </content>
     </entry>
