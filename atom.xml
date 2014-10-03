@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-09-26T12:26:50+03:00</updated>
+    <updated>2014-10-03T13:26:44+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,50 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>Garden of Alexander</title>
+        <link href="http://l4a.gr/projects/garden-of-alexander/"/>
+        <updated>2014-10-03T13:22:47+03:00</updated>
+        <id>http://l4a.gr/projects/garden-of-alexander</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/nea-paralia-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Lighting for the garden of Alexander at nea paralia (new waterfront) in Thessalloniki.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: Municipality of Thessaloniki&lt;/li&gt;
+  &lt;li&gt;Funding: Municipality of Thessaloniki, Program “Ioannis Kapodistrias”&lt;/li&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://www.nikiforidis-cuomo.com/&quot;&gt;P. Nikiforidis, B. Cuomo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Urban designers: &lt;a href=&quot;http://www.castro-denissof.com/&quot;&gt;Atelier R. Castro, S. Denissof&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Electrical engineers: Dimitris Bozis Panagiotis Kikidis &amp;amp; partners LTD, Gerasimos Kampitsis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Photos: &lt;a href=&quot;http://www.studio8photos.com&quot;&gt;Efi Panagoula&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nea-paralia-01.jpg&quot; alt=&quot;Garden of Alexander&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nea-paralia-02.jpg&quot; alt=&quot;Garden of Alexander&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nea-paralia-03.jpg&quot; alt=&quot;Garden of Alexander&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nea-paralia-04.jpg&quot; alt=&quot;Garden of Alexander&quot; /&gt;
+&lt;/figure&gt;
+
+
+        </content>
+    </entry>
     
     <entry>
         <title>Olympiacos&#39; locker rooms</title>
@@ -777,38 +821,6 @@
 &lt;p&gt;An exhibition of physical models will run on Friday 10th (10:00-14:00, 17:00-22:00) and on Saturday 11th (17:00-19:00) in the foyer of the theater. Visitors will be welcomed to the lecture by the sounds of the music compilation “Linear Chromatics”.&lt;/p&gt;
 
 &lt;p&gt;The entrance is free to the public.&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Maria Callas exhibition</title>
-        <link href="http://l4a.gr/projects/maria-callas-exhibition/"/>
-        <updated>2013-12-06T00:00:00+02:00</updated>
-        <id>http://l4a.gr/projects/maria-callas-exhibition</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Temporary exhibition for the anniversary of Maria Callas’ 90th birthday at the hall where she first sang in 1938.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Organization: &lt;a href=&quot;https://el-gr.facebook.com/MariaCallasGreekSociety&quot;&gt;Maria Callas Greek Society&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architect: George Manetas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-01.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/maria-callas-exhibition-02.jpg&quot; alt=&quot;Maria Callas exhibition&quot; /&gt;
-&lt;/figure&gt;
 
         </content>
     </entry>
