@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-03T17:02:45+03:00</updated>
+    <updated>2014-10-06T12:47:57+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,66 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>House at Eastern Peloponnese</title>
+        <link href="http://l4a.gr/projects/house-at-eastern-peloponnese/"/>
+        <updated>2014-10-06T12:25:52+03:00</updated>
+        <id>http://l4a.gr/projects/house-at-eastern-peloponnese</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Lighting for a house at eastern Peloponnese.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://gem-arch.gr/&quot;&gt;GEM Architects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photos: &lt;a href=&quot;http://www.costasvergas.com/&quot;&gt;Costas Vergas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of GEM Architects. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-01.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-02.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-03.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-04.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-05.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-06.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-07.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-08.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-09.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Garden of Alexander</title>
@@ -798,29 +858,6 @@
 &lt;figure&gt;
   &lt;img src=&quot;http://l4a.gr/images/trikiklo-02.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
 &lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Ilioupolis, architecture &amp; public space</title>
-        <link href="http://l4a.gr/articles/ilioupolis/"/>
-        <updated>2013-12-09T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/ilioupolis</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;p&gt;“Ilioupolis, architecture and public space - The determination and application of the strong identity of Ilioupolis” is the title of the lecture by &lt;em&gt;Christos Giannakos&lt;/em&gt; (Architect - Engineer, Aristotle University of Thessaloniki, Architectural Association Graduate Design Diploma), to be held on Saturday &lt;em&gt;11.01.2014&lt;/em&gt; 19:00 at the theater of Ilioupolis city hall.&lt;/p&gt;
-
-&lt;p&gt;The subject of the lecture is the definition of a strong central idea in Urban and Architectural Scale that will be a major tool of internal development for the city of Ilioupolis improving the living standards of its inhabitants. It is the result of three years of research and development (2010-2013).&lt;/p&gt;
-
-&lt;p&gt;An exhibition of physical models will run on Friday 10th (10:00-14:00, 17:00-22:00) and on Saturday 11th (17:00-19:00) in the foyer of the theater. Visitors will be welcomed to the lecture by the sounds of the music compilation “Linear Chromatics”.&lt;/p&gt;
-
-&lt;p&gt;The entrance is free to the public.&lt;/p&gt;
 
         </content>
     </entry>
