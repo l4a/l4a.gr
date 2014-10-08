@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-06T21:30:04+03:00</updated>
+    <updated>2014-10-07T22:37:23+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,58 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>Nikos Koulis Athens</title>
+        <link href="http://l4a.gr/projects/nikos-koulis-athens/"/>
+        <updated>2014-10-07T21:48:58+03:00</updated>
+        <id>http://l4a.gr/projects/nikos-koulis-athens</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;“The first Nikos Koulis Jewels boutique in Athens, located in its posh shopping area in the center of the city, is a product of a constant, evolving intercourse between masculine and feminine elements. The sources of inspiration behind its creation are universal: references to a G. Gershwin melody, a phrase by F. S. Fitzgerald, the decolorized photography of classic films, the electrical vibe of New York, Paris and Shanghai during the 30’s and 40’s.&lt;/p&gt;
+
+&lt;p&gt;The result is the creation of an atmospheric space resembling a woman’s boudoir, combined with the mystery of an austere men’s lounge. The dialogue between the eternal game of men-women attraction is reflected in all the design facets: fine grey flannel on the walls, grey, black and dark green marbles, intense metals such as bronze and back iron, display forms made of cement co-existing with art deco curved mirrors, custom-made graceful lighting sconces, velvet and rattan textures. The space as a whole establishes the privacy and proximity, redefining the the position of the client toward his objects of desire - Nikos Koulis fine jewelry.&lt;/p&gt;
+
+&lt;p&gt;Designed by the Athens-based Stage Design Office, Stavros Papagiannis &amp;amp; Yorgos Kiriazis, in a close collaboration with the brand owners, Nikos Koulis Jewels boutique exceeds the commercial character of a store, inviting its clients to experience the intimacy of an unconfined, private moment.&lt;/p&gt;
+
+&lt;p&gt;Alexandros Papadias designed the marble sconces, the tailor-made vitrine étalage, as well as the bronze door knobs; Michael Anastassiades the satin brass lights, while Cypriot artist Socrates Socratous has created an in-situ installation in the outdoor display, while classic music is played from the outdoor loudspeakers, creating a sensation to visitors and reflecting Nikos Koulis’ intricate philosophy.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://nikoskoulis.gr&quot;&gt;Nikos Koulis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Interior Design: &lt;a href=&quot;http://stagedesignoffice.com&quot;&gt;Stage Design Office&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tailor-made objects: &lt;a href=&quot;http://makeworkshop.eu&quot;&gt;Alexander Papadias&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photos: &lt;a href=&quot;http://greyimages.gr/&quot;&gt;Grey Studio&lt;/a&gt;, Panagiotis Baxevanis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of Stage Design Office. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-01.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-02.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-03.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-04.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-05.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>House at eastern Peloponnese</title>
@@ -821,42 +873,6 @@
 
 &lt;figure&gt;
 	&lt;img src=&quot;http://l4a.gr/images/ancho-01.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
-&lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Trikiklo</title>
-        <link href="http://l4a.gr/projects/trikiklo/"/>
-        <updated>2013-12-27T00:00:00+02:00</updated>
-        <id>http://l4a.gr/projects/trikiklo</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/trikiklo-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;“Trikiklo focuses on a single idea – actually not just an idea but more of a passion. A passion which has made Trikiklo a remarkable company in the Greek baby/toddler field offering new inspiration to new parents.”&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://www.trikiklo.com&quot;&gt;Trikiklo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architect: &lt;a href=&quot;http://www.eliasveneris.com&quot;&gt;Elias Veneris architects&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/trikiklo-03.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/trikiklo-01.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/trikiklo-02.jpg&quot; alt=&quot;Trikiklo&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
