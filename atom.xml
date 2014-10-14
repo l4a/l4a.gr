@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-12T12:44:35+03:00</updated>
+    <updated>2014-10-14T21:03:25+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,70 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>One Athens</title>
+        <link href="http://l4a.gr/projects/one-athens/"/>
+        <updated>2014-10-14T14:57:28+03:00</updated>
+        <id>http://l4a.gr/projects/one-athens</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/one-athens-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;In the late 1950s, Constantinos Doxiadis, one of the leading figures of modern Greek architecture, was looking for a site to build his new company’s Athens offices. He selected a plot in the pine-clad foothills of Mount Lycabettus, a vantage point that afforded sweeping views of the city as far as the sea.&lt;/p&gt;
+
+&lt;p&gt;Divercity architects were inspired by Doxiadis’ philosophy in converting his former headquarters into 21st century residences. Maintaining the elegant simplicity of the structure, the new design is faithful to the legacy of this landmark, but forward-looking in its cutting-edge design, innovative use of materials, and ability to respond to the modern lifestyle.&lt;/p&gt;
+
+&lt;p&gt;L4A continued and completed the lighting development started by Diathlasis SA.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer (project development): Cyclamino SA&lt;/li&gt;
+  &lt;li&gt;Contractor: &lt;a href=&quot;http://www.jp-avax.gr/&quot;&gt;J&amp;amp;P AVAX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://www.divercityarchitects.com/&quot;&gt;Divercity&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Head architects: Nikolas Travasaros &amp;amp; Christina Achtypi&lt;/li&gt;
+      &lt;li&gt;Design team: Dimitris Travasaros, Dimitra Karampelia, Dimosthenis Lappas, Angelina Manitsa, Marios Triantafyllou&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Associates architects: Takis Travasaros, Apostolia Kokkini, Sandy Papastauropoulou, Michalis Tsimilis&lt;/li&gt;
+  &lt;li&gt;Structural engineering: E.T.E.S.M.E.&lt;/li&gt;
+  &lt;li&gt;Electromechanical engineering: &lt;a href=&quot;http://elteme-ltd.weebly.com/&quot;&gt;EL.T.E.ME.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Construction supervision: Nikolas Travasaros, Takis Travasaros, Dimitris Travasaros&lt;/li&gt;
+  &lt;li&gt;Acoustic design: &lt;a href=&quot;http://timagenis-acoustics.com/Start.html&quot;&gt;Theodore Timagenis &amp;amp; Associates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Landscape design: &lt;a href=&quot;http://elandscape.gr/&quot;&gt;ELANDSCAPE - H. Pangalou &amp;amp; Associates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Photos: &lt;a href=&quot;http://daniilidis.gr/photography/&quot;&gt;Nikos Daniilidis&lt;/a&gt;, &lt;a href=&quot;http://fakaros.com/&quot;&gt;George Fakaros&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-01.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-02.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-03.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-04.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-05.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/one-athens-06.jpg&quot; alt=&quot;One Athens&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Nikos Koulis Athens</title>
@@ -845,39 +909,6 @@
 &lt;p&gt;The idea and the implementation belongs to the visual designer Mary Samoli. The exhibition is curated by the distinguished art historian Iris Kritikou. L4A is proud supporter.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/ajewelmadeingreece&quot;&gt;https://www.facebook.com/ajewelmadeingreece&lt;/a&gt;&lt;/p&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Ancho Mexican grill</title>
-        <link href="http://l4a.gr/projects/ancho/"/>
-        <updated>2014-01-23T00:00:00+02:00</updated>
-        <id>http://l4a.gr/projects/ancho</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;p&gt;The challenge that the architects faced in this project was the combination of a strong and vibrant lighting in the main room with a softer lighting on the patio.&lt;/p&gt;
-
-&lt;p&gt;Also the low-ceilinged loft had to be lighted in a clever way while the simple decor required the discreet enchancement of the architectural elements.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Architects: &lt;a href=&quot;http://www.kmarchitecture.gr/&quot;&gt;k+m architecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All images courtesy of k+m architecture. Used under permission.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/ancho-02.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/ancho-01.jpg&quot; alt=&quot;Ancho Mexican grill&quot; /&gt;
-&lt;/figure&gt;
 
         </content>
     </entry>
