@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-14T21:23:38+03:00</updated>
+    <updated>2014-10-16T15:48:12+03:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,25 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>L4A lights the new Wind stores</title>
+        <link href="http://l4a.gr/articles/l4a-lights-the-new-wind-stores/"/>
+        <updated>2014-10-16T13:56:18+03:00</updated>
+        <id>http://l4a.gr/articles/l4a-lights-the-new-wind-stores</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/wind-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;&lt;a href=&quot;http://www.wind.gr/&quot;&gt;Wind&lt;/a&gt; obtains a new face in the retail market presenting its new hi-tech stores characterized by friendliness, interactivity and personalized service.&lt;/p&gt;
+
+&lt;p&gt;The design of the new stores (along with the conceptual lighting design) is signed by &lt;a href=&quot;http://www.allen-international.com/&quot;&gt;Allen International&lt;/a&gt;. L4A is proud to be Wind’s choice for the implementation and the adaptation of the lighting design to the needs of every store.&lt;/p&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>One Athens</title>
@@ -888,27 +907,6 @@
 &lt;figure&gt;
   &lt;img src=&quot;http://l4a.gr/images/novartis-05.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>A jewel made in Greece</title>
-        <link href="http://l4a.gr/articles/a-jewel-made-in-greece/"/>
-        <updated>2014-02-14T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/a-jewel-made-in-greece</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;p&gt;The exhibition “A Jewel Made in Greece” opening on Saturday, 22nd of February 2014 at Technopolis, is bringing together for about a week most of the greatest modern Greek jewelry artists.&lt;/p&gt;
-
-&lt;p&gt;The idea and the implementation belongs to the visual designer Mary Samoli. The exhibition is curated by the distinguished art historian Iris Kritikou. L4A is proud supporter.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/ajewelmadeingreece&quot;&gt;https://www.facebook.com/ajewelmadeingreece&lt;/a&gt;&lt;/p&gt;
 
         </content>
     </entry>
