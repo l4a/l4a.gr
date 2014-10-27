@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-25T19:26:13+03:00</updated>
+    <updated>2014-10-27T18:01:33+02:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,90 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>Residence in Glyfada</title>
+        <link href="http://l4a.gr/projects/residence-in-glyfada/"/>
+        <updated>2014-10-27T14:36:35+02:00</updated>
+        <id>http://l4a.gr/projects/residence-in-glyfada</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;A private residence located in the southern parts of the Athens metropolitan area, designed by Dolihos Architects and developed by KDI Contract.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://www.dolihos.gr/&quot;&gt;Dolihos Architects LTD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Construction: &lt;a href=&quot;http://kdi.gr/&quot;&gt;KDI Contract&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of KDI Contract. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-01.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-02.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-03.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-04.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-05.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-06.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-08.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-09.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-07.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-10.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-11.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-12.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-13.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-14.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-15.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>L4A lights the new Wind stores</title>
@@ -861,51 +945,6 @@
 
 &lt;figure&gt;
 	&lt;img src=&quot;http://l4a.gr/images/jewel-01.jpg&quot; alt=&quot;A jewel made in Greece&quot; /&gt;
-&lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>Novartis</title>
-        <link href="http://l4a.gr/projects/novartis/"/>
-        <updated>2014-02-24T00:00:00+02:00</updated>
-        <id>http://l4a.gr/projects/novartis</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/novartis-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;Novartis sells products in more than 150 countries, with its global headquarters in Basel, Switzerland.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://www.novartis.gr&quot;&gt;Novartis Hellas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architect: &lt;a href=&quot;http://www.sgoutas.com&quot;&gt;Dimitris Sgoutas - Sgoutas Architects&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Construction: &lt;a href=&quot;http://www.ems-i.gr&quot;&gt;EMS Integrations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/novartis-01.jpg&quot; alt=&quot;Novartis&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/novartis-02.jpg&quot; alt=&quot;Novartis&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/novartis-03.jpg&quot; alt=&quot;Novartis&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/novartis-04.jpg&quot; alt=&quot;Novartis&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/novartis-05.jpg&quot; alt=&quot;Novartis&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
