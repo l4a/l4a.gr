@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-30T10:41:55+02:00</updated>
+    <updated>2014-10-31T10:22:27+02:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,41 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>PricewaterhouseCoopers</title>
+        <link href="http://l4a.gr/projects/pwc/"/>
+        <updated>2014-10-29T12:16:09+02:00</updated>
+        <id>http://l4a.gr/projects/pwc</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/pwc-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;PwC is a network of firms in 157 countries with more than 184.000 people, delivering quality in assurance, tax and advisory services.&lt;/p&gt;
+
+&lt;p&gt;PwC in Greece is the largest professional services firm in the country, with premises in Athens and Thessaloniki and over 800 employees. The lighting in this open space office was based on visual comfort, limitation of glare and energy saving.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://www.pwc.com/gr/en/&quot;&gt;PwC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architect: &lt;a href=&quot;http://www.dands.gr/&quot;&gt;Design+structureS LTD Takis Yalelis Architect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Construction: &lt;a href=&quot;http://www.ergosteel.gr/&quot;&gt;Ergosteel SA&lt;/a&gt;, Vitael SA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of Design+structureS LTD. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/pwc-01.jpg&quot; alt=&quot;PwC&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/pwc-02.jpg&quot; alt=&quot;PwC&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Residence in Glyfada</title>
@@ -916,35 +951,6 @@
 &lt;figure class=&quot;large&quot;&gt;
     &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Tel5ArMCG8Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;figcaption&gt;Lux levels.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>A jewel made in Greece</title>
-        <link href="http://l4a.gr/projects/jewel/"/>
-        <updated>2014-03-13T00:00:00+02:00</updated>
-        <id>http://l4a.gr/projects/jewel</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	&lt;img src=&quot;http://l4a.gr/images/jewel-featured.jpg&quot;&gt;&lt;br/&gt;
-        	&lt;p&gt;The design of the exhibition intented to a harmonious coexistense of 26 artists.&lt;/p&gt;
-
-&lt;p&gt;The composition of three display units for each artist is the key element. Its repetition defines the overall design system, imparting consistency and homogeneity in space. The basic lighting unit is a part of the composition suppling a distinct lighting level. It consists of 3 hanging lamps at different heights for each key element.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Exhibition design: &lt;a href=&quot;http://apkarchitects.com/&quot;&gt;apk architects&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All images courtesy of apk architects. Used under permission.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/jewel-01.jpg&quot; alt=&quot;A jewel made in Greece&quot; /&gt;
 &lt;/figure&gt;
 
         </content>
