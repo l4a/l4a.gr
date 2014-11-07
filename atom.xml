@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-10-31T14:03:49+02:00</updated>
+    <updated>2014-11-07T10:02:36+02:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,48 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>Grande Bretagne: picture lights refurbishment</title>
+        <link href="http://l4a.gr/projects/grande-bretagne/"/>
+        <updated>2014-11-06T21:59:53+02:00</updated>
+        <id>http://l4a.gr/projects/grande-bretagne</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/grande-bretagne-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;Hotel Grande Bretagne is a landmark hotel situated right in the heart of the city of Athens since 1874. Ηundreds of works of art housed in its walls.&lt;/p&gt;
+
+&lt;p&gt;L4A took over the refurbishment of the traditional picture lights by replacing the halogen lamps with LED’s with excellent color rendering properties.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://www.grandebretagne.gr/&quot;&gt;Hotel Grande Bretagne&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Photos: Yannis Koniaris&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of Yannis Koniaris. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/grande-bretagne-01.jpg&quot; alt=&quot;Grande Bretagne&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/grande-bretagne-02.jpg&quot; alt=&quot;Grande Bretagne&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/grande-bretagne-03.jpg&quot; alt=&quot;Grande Bretagne&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/grande-bretagne-04.jpg&quot; alt=&quot;Grande Bretagne&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>PwC</title>
@@ -729,7 +771,7 @@
     </entry>
     
     <entry>
-        <title>Athens International Airport, Central Food Court</title>
+        <title>Athens International Airport, central food court</title>
         <link href="http://l4a.gr/projects/aia-central-food-court/"/>
         <updated>2014-05-19T00:00:00+03:00</updated>
         <id>http://l4a.gr/projects/aia-central-food-court</id>
@@ -922,35 +964,6 @@
   &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-1.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-1.jpg&quot; alt=&quot;Relux&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-2.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-2.jpg&quot; alt=&quot;Real image&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;Raytracing by Relux&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>On the boards VI</title>
-        <link href="http://l4a.gr/articles/on-the-boards-vi/"/>
-        <updated>2014-03-18T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/on-the-boards-vi</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;p&gt;Residence in Athens. Movement via videos or (even better) interactive apps, is a very effective and straightforward way to present your work to the client.&lt;/p&gt;
-
-&lt;p&gt;And you won’t have to destroy a forest to print over-designed, bad-designed, confusing presentations!&lt;/p&gt;
-
-&lt;figure class=&quot;large&quot;&gt;
-    &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/PmGKmMeGX0A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;figcaption&gt;Rendering in SketchUp.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&quot;large&quot;&gt;
-    &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Tel5ArMCG8Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;figcaption&gt;Lux levels.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
         </content>
