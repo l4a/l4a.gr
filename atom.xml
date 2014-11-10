@@ -9,7 +9,7 @@
     <subtitle>An Architectural Lighting firm, based in Athens Greece, working with simplicity in mind.</subtitle>
     <link href="http://l4a.gr/atom.xml" rel="self"/>
     <link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-    <updated>2014-11-07T10:02:36+02:00</updated>
+    <updated>2014-11-10T12:45:36+02:00</updated>
     <id>http://l4a.gr/</id>
     <author>
 			<name>L4A</name>
@@ -17,6 +17,45 @@
 			<email>lightingforarchitecture@gmail.com</email>
 		</author>
 
+    
+    <entry>
+        <title>New Wind stores</title>
+        <link href="http://l4a.gr/projects/new-wind-stores/"/>
+        <updated>2014-11-07T13:08:57+02:00</updated>
+        <id>http://l4a.gr/projects/new-wind-stores</id>
+        <author>
+					<name>L4A</name>
+					<uri>http://l4a.gr/</uri>
+					<email>lightingforarchitecture@gmail.com</email>
+				</author>
+        <content type="html">
+        	&lt;img src=&quot;http://l4a.gr/images/new-wind-stores-featured.jpg&quot;&gt;&lt;br/&gt;
+        	&lt;p&gt;L4A is responsible for the design development and the implementation of the schematic lighting design to the renovated Wind stores.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://www.wind.gr/&quot;&gt;Wind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/new-wind-stores-01.jpg&quot; alt=&quot;New Wind stores&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/new-wind-stores-03.jpg&quot; alt=&quot;New Wind stores&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/new-wind-stores-04.jpg&quot; alt=&quot;New Wind stores&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/new-wind-stores-02.jpg&quot; alt=&quot;New Wind stores&quot; /&gt;
+&lt;/figure&gt;
+
+        </content>
+    </entry>
     
     <entry>
         <title>Grande Bretagne: picture lights refurbishment</title>
@@ -939,31 +978,6 @@
 &lt;figure class=&quot;large&quot;&gt;
     &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/QPSpqLBOcSQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
     &lt;figcaption&gt;DIALux Evo’s “scenes” is a very handy and useful feature.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-        </content>
-    </entry>
-    
-    <entry>
-        <title>On the boards VII</title>
-        <link href="http://l4a.gr/articles/on-the-boards-vii/"/>
-        <updated>2014-03-24T00:00:00+02:00</updated>
-        <id>http://l4a.gr/articles/on-the-boards-vii</id>
-        <author>
-					<name>L4A</name>
-					<uri>http://l4a.gr/</uri>
-					<email>lightingforarchitecture@gmail.com</email>
-				</author>
-        <content type="html">
-        	
-        	&lt;p&gt;The ultimate challenge for the involved in the lighting design process is the &lt;em&gt;quick &amp;amp; reliable imaging&lt;/em&gt; of the ideas without the hassle of using sophisticated, expensive and time consuming software like 3dstudio, Rhino, Maya etc.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;first image&lt;/em&gt; on the left was produced by the humble &lt;em&gt;Relux&lt;/em&gt; and its internal raytracer. It took just 3-4 hours, starting from scratch, to finish and most of the time spent on adjusting the raytracer settings. Of course it’s not the best result on planet earth but it’s ok for everyday’s work and surely captures the real atmosphere of the space. Have in mind that this certain case (indirect lighitng + artificial skylight) is tough enough for every lighting software.&lt;/p&gt;
-
-&lt;figure class=&quot;half&quot;&gt;
-  &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-1.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-1.jpg&quot; alt=&quot;Relux&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;http://l4a.gr/images/on-the-boards-vii-2.jpg&quot; class=&quot;image-popup&quot;&gt;&lt;img src=&quot;/images/on-the-boards-vii-2.jpg&quot; alt=&quot;Real image&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Raytracing by Relux&lt;/figcaption&gt;
 &lt;/figure&gt;
 
         </content>
