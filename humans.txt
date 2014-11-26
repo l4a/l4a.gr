@@ -10,7 +10,7 @@
 
 /* ABOUT */
 
-  Developer:    NV
+  Developer:    Nikos Varopoulos
   Twitter:      @L4Agr
   Location:     Athens, GR
 
