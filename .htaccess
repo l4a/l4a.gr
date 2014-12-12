@@ -443,5 +443,9 @@ redirect 301 /category-sitemap.xml http://l4a.gr/sitemap.xml
 # ----------------------------------------------------------------------
 
 # RedirectMatch permanent /lifestream http://mademistakes.com/articles/
-# redirect 301 /about-made-mistakes/ http://mademistakes.com/about/
-# redirect 301 /articles/face http://mademistakes.com/articles/paperfaces-ipad-portrait-project/
+
+redirect 301 /articles/searching-for-a-holy-grail-that-does-not-exist http://l4a.gr/articles/searching-for-a-non-existent-holy-grail
+redirect 301 /articles/competition-for-the-redesign-of-katehaki-square http://l4a.gr/articles/competition-to-redesign-katehaki-square
+
+
+
