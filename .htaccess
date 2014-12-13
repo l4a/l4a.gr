@@ -446,6 +446,6 @@ redirect 301 /category-sitemap.xml http://l4a.gr/sitemap.xml
 
 redirect 301 /articles/searching-for-a-holy-grail-that-does-not-exist http://l4a.gr/articles/searching-for-a-non-existent-holy-grail
 redirect 301 /articles/competition-for-the-redesign-of-katehaki-square http://l4a.gr/articles/competition-to-redesign-katehaki-square
-
+redirect 301 /projects/house-at-eastern-peloponnese/ http://l4a.gr/projects/house-in-the-eastern-peloponnese
 
 
