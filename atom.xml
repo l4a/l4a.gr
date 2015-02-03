@@ -9,10 +9,10 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
 <icon>http://l4a.gr/apple-touch-icon-precomposed.png</icon>
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
-<link href="http://l4a.gr/atom.xml" rel="self"/>
-<link href="http://l4a.gr/" rel="alternate" type="text/html"/>
-<updated>2015-02-03T09:29:52+02:00</updated>
-<id>http://l4a.gr/</id>
+<link href="/atom.xml" rel="self"/>
+<link href="/" rel="alternate" type="text/html"/>
+<updated>2015-02-03T09:59:36+02:00</updated>
+<id>/</id>
 <author>
   <name>L4A</name>
   <uri>http://l4a.gr/</uri>
@@ -22,9 +22,9 @@
 
 <entry>
   <title>Nike store at the Mall Athens</title>
-  <link href="http://l4a.gr/projects/nike-store-at-the-mall-athens/"/>
+  <link href="/projects/nike-store-at-the-mall-athens/"/>
   <updated>2014-12-06T22:16:11+02:00</updated>
-  <id>http://l4a.gr/projects/nike-store-at-the-mall-athens</id>
+  <id>/projects/nike-store-at-the-mall-athens</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -51,15 +51,15 @@
     &lt;img src=&quot;http://l4a.gr/images/nike-store-at-the-mall-athens-03.jpg&quot; alt=&quot;Nike store at the Mall Athens&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/nike-store-at-the-mall-athens/&quot; rel=&quot;nofollow&quot;&gt;Nike store at the Mall Athens&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/nike-store-at-the-mall-athens/&quot; rel=&quot;nofollow&quot;&gt;Nike store at the Mall Athens&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Athens 2004 historical archive </title>
-  <link href="http://l4a.gr/projects/athens-2004-historical-archive/"/>
+  <link href="/projects/athens-2004-historical-archive/"/>
   <updated>2014-12-02T14:45:03+02:00</updated>
-  <id>http://l4a.gr/projects/athens-2004-historical-archive</id>
+  <id>/projects/athens-2004-historical-archive</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -97,15 +97,15 @@
     &lt;img src=&quot;http://l4a.gr/images/historical-archive-athens-2004-04.jpg&quot; alt=&quot;Athens 2004 historical archive&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/athens-2004-historical-archive/&quot; rel=&quot;nofollow&quot;&gt;Athens 2004 historical archive &lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/athens-2004-historical-archive/&quot; rel=&quot;nofollow&quot;&gt;Athens 2004 historical archive &lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>New Wind stores</title>
-  <link href="http://l4a.gr/projects/new-wind-stores/"/>
+  <link href="/projects/new-wind-stores/"/>
   <updated>2014-11-07T13:08:57+02:00</updated>
-  <id>http://l4a.gr/projects/new-wind-stores</id>
+  <id>/projects/new-wind-stores</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -138,15 +138,15 @@
   &lt;img src=&quot;http://l4a.gr/images/new-wind-stores-02.jpg&quot; alt=&quot;New Wind stores&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/new-wind-stores/&quot; rel=&quot;nofollow&quot;&gt;New Wind stores&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/new-wind-stores/&quot; rel=&quot;nofollow&quot;&gt;New Wind stores&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Grande Bretagne: picture lights refurbishment</title>
-  <link href="http://l4a.gr/projects/grande-bretagne/"/>
+  <link href="/projects/grande-bretagne/"/>
   <updated>2014-11-06T21:59:53+02:00</updated>
-  <id>http://l4a.gr/projects/grande-bretagne</id>
+  <id>/projects/grande-bretagne</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -182,15 +182,15 @@
   &lt;img src=&quot;http://l4a.gr/images/grande-bretagne-04.jpg&quot; alt=&quot;Grande Bretagne&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/grande-bretagne/&quot; rel=&quot;nofollow&quot;&gt;Grande Bretagne: picture lights refurbishment&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/grande-bretagne/&quot; rel=&quot;nofollow&quot;&gt;Grande Bretagne: picture lights refurbishment&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>PwC</title>
-  <link href="http://l4a.gr/projects/pwc/"/>
+  <link href="/projects/pwc/"/>
   <updated>2014-10-29T12:16:09+02:00</updated>
-  <id>http://l4a.gr/projects/pwc</id>
+  <id>/projects/pwc</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -219,15 +219,15 @@
   &lt;img src=&quot;http://l4a.gr/images/pwc-02.jpg&quot; alt=&quot;PwC&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/pwc/&quot; rel=&quot;nofollow&quot;&gt;PwC&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/pwc/&quot; rel=&quot;nofollow&quot;&gt;PwC&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Residence in Glyfada</title>
-  <link href="http://l4a.gr/projects/residence-in-glyfada/"/>
+  <link href="/projects/residence-in-glyfada/"/>
   <updated>2014-10-27T14:36:35+02:00</updated>
-  <id>http://l4a.gr/projects/residence-in-glyfada</id>
+  <id>/projects/residence-in-glyfada</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -305,15 +305,15 @@
   &lt;img src=&quot;http://l4a.gr/images/residence-in-glyfada-15.jpg&quot; alt=&quot;Residence in Glyfada&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/residence-in-glyfada/&quot; rel=&quot;nofollow&quot;&gt;Residence in Glyfada&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/residence-in-glyfada/&quot; rel=&quot;nofollow&quot;&gt;Residence in Glyfada&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>L4A lights the new Wind stores</title>
-  <link href="http://l4a.gr/articles/l4a-lights-the-new-wind-stores/"/>
+  <link href="/articles/l4a-lights-the-new-wind-stores/"/>
   <updated>2014-10-16T13:56:18+03:00</updated>
-  <id>http://l4a.gr/articles/l4a-lights-the-new-wind-stores</id>
+  <id>/articles/l4a-lights-the-new-wind-stores</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -326,15 +326,15 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.allen-international.com/&quot;&gt;Allen International&lt;/a&gt; is the name behind the design of the new stores (along with the conceptual lighting design). L4A is proud to be Wind’s choice for implementing and tailoring the lighting design to the needs of every store.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/l4a-lights-the-new-wind-stores/&quot; rel=&quot;nofollow&quot;&gt;L4A lights the new Wind stores&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/l4a-lights-the-new-wind-stores/&quot; rel=&quot;nofollow&quot;&gt;L4A lights the new Wind stores&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>One Athens</title>
-  <link href="http://l4a.gr/projects/one-athens/"/>
+  <link href="/projects/one-athens/"/>
   <updated>2014-10-14T14:57:28+03:00</updated>
-  <id>http://l4a.gr/projects/one-athens</id>
+  <id>/projects/one-athens</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -392,15 +392,15 @@
   &lt;img src=&quot;http://l4a.gr/images/one-athens-06.jpg&quot; alt=&quot;One Athens&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/one-athens/&quot; rel=&quot;nofollow&quot;&gt;One Athens&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/one-athens/&quot; rel=&quot;nofollow&quot;&gt;One Athens&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Nikos Koulis Athens</title>
-  <link href="http://l4a.gr/projects/nikos-koulis-athens/"/>
+  <link href="/projects/nikos-koulis-athens/"/>
   <updated>2014-10-07T21:48:58+03:00</updated>
-  <id>http://l4a.gr/projects/nikos-koulis-athens</id>
+  <id>/projects/nikos-koulis-athens</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -446,15 +446,15 @@
   &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-athens-05.jpg&quot; alt=&quot;Nikos Koulis, Athens&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/nikos-koulis-athens/&quot; rel=&quot;nofollow&quot;&gt;Nikos Koulis Athens&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/nikos-koulis-athens/&quot; rel=&quot;nofollow&quot;&gt;Nikos Koulis Athens&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>House in the eastern Peloponnese</title>
-  <link href="http://l4a.gr/projects/house-in-the-eastern-peloponnese/"/>
+  <link href="/projects/house-in-the-eastern-peloponnese/"/>
   <updated>2014-10-06T12:25:52+03:00</updated>
-  <id>http://l4a.gr/projects/house-in-the-eastern-peloponnese</id>
+  <id>/projects/house-in-the-eastern-peloponnese</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -508,15 +508,15 @@
   &lt;img src=&quot;http://l4a.gr/images/house-at-eastern-peloponnese-09.jpg&quot; alt=&quot;House at Eastern Peloponnese&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/house-in-the-eastern-peloponnese/&quot; rel=&quot;nofollow&quot;&gt;House in the eastern Peloponnese&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/house-in-the-eastern-peloponnese/&quot; rel=&quot;nofollow&quot;&gt;House in the eastern Peloponnese&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Garden of Alexander</title>
-  <link href="http://l4a.gr/projects/garden-of-alexander/"/>
+  <link href="/projects/garden-of-alexander/"/>
   <updated>2014-10-03T13:22:47+03:00</updated>
-  <id>http://l4a.gr/projects/garden-of-alexander</id>
+  <id>/projects/garden-of-alexander</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -554,15 +554,15 @@
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/projects/garden-of-alexander/&quot; rel=&quot;nofollow&quot;&gt;Garden of Alexander&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/garden-of-alexander/&quot; rel=&quot;nofollow&quot;&gt;Garden of Alexander&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Olympiacos&#39; locker rooms</title>
-  <link href="http://l4a.gr/articles/olympiacos-locker-rooms/"/>
+  <link href="/articles/olympiacos-locker-rooms/"/>
   <updated>2014-09-15T12:08:02+03:00</updated>
-  <id>http://l4a.gr/articles/olympiacos-locker-rooms</id>
+  <id>/articles/olympiacos-locker-rooms</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -577,15 +577,15 @@
 
 &lt;p&gt;Photoshoot coming soon…&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/olympiacos-locker-rooms/&quot; rel=&quot;nofollow&quot;&gt;Olympiacos&#39; locker rooms&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/olympiacos-locker-rooms/&quot; rel=&quot;nofollow&quot;&gt;Olympiacos&#39; locker rooms&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>On the boards IX</title>
-  <link href="http://l4a.gr/articles/on-the-boards-ix/"/>
+  <link href="/articles/on-the-boards-ix/"/>
   <updated>2014-09-04T14:27:38+03:00</updated>
-  <id>http://l4a.gr/articles/on-the-boards-ix</id>
+  <id>/articles/on-the-boards-ix</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -598,15 +598,15 @@
 
 &lt;p&gt;The built-in version of Radiance (called Vision) seems outdated and slow, but it’s easy to use and reliable. Since 1985, Radiance has been the most generally used software package for architectural lighting simulation and often serves as the underlying simulation engine for many other packages.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/on-the-boards-ix/&quot; rel=&quot;nofollow&quot;&gt;On the boards IX&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/on-the-boards-ix/&quot; rel=&quot;nofollow&quot;&gt;On the boards IX&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Route67</title>
-  <link href="http://l4a.gr/projects/route67/"/>
+  <link href="/projects/route67/"/>
   <updated>2014-08-04T14:06:07+03:00</updated>
-  <id>http://l4a.gr/projects/route67</id>
+  <id>/projects/route67</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -641,15 +641,15 @@
   &lt;img src=&quot;http://l4a.gr/images/route67-03.jpg&quot; alt=&quot;Root 67&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/route67/&quot; rel=&quot;nofollow&quot;&gt;Route67&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/route67/&quot; rel=&quot;nofollow&quot;&gt;Route67&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>This Show is about DIVERCITY</title>
-  <link href="http://l4a.gr/projects/this-show-is-about-divercity/"/>
+  <link href="/projects/this-show-is-about-divercity/"/>
   <updated>2014-07-20T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/this-show-is-about-divercity</id>
+  <id>/projects/this-show-is-about-divercity</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -677,15 +677,15 @@
 	&lt;img src=&quot;http://l4a.gr/images/this-show-is-about-divercity-03.jpg&quot; alt=&quot;This Show is about DIVERCITY&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/this-show-is-about-divercity/&quot; rel=&quot;nofollow&quot;&gt;This Show is about DIVERCITY&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/this-show-is-about-divercity/&quot; rel=&quot;nofollow&quot;&gt;This Show is about DIVERCITY&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Competition to redesign Katehaki Square</title>
-  <link href="http://l4a.gr/articles/competition-to-redesign-katehaki-square/"/>
+  <link href="/articles/competition-to-redesign-katehaki-square/"/>
   <updated>2014-07-18T00:00:00+03:00</updated>
-  <id>http://l4a.gr/articles/competition-to-redesign-katehaki-square</id>
+  <id>/articles/competition-to-redesign-katehaki-square</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -698,15 +698,15 @@
 
 &lt;p&gt;We are very happy to have assisted in the lighting design. Experts and non-experts agree that his proposal deserved 1st prize.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/competition-to-redesign-katehaki-square/&quot; rel=&quot;nofollow&quot;&gt;Competition to redesign Katehaki Square&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/competition-to-redesign-katehaki-square/&quot; rel=&quot;nofollow&quot;&gt;Competition to redesign Katehaki Square&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Apartment in Athens</title>
-  <link href="http://l4a.gr/projects/apartment-in-athens/"/>
+  <link href="/projects/apartment-in-athens/"/>
   <updated>2014-06-27T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/apartment-in-athens</id>
+  <id>/projects/apartment-in-athens</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -744,15 +744,15 @@
   &lt;img src=&quot;http://l4a.gr/images/apartment-in-athens-05.jpg&quot; alt=&quot;Apartment in Athens&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/apartment-in-athens/&quot; rel=&quot;nofollow&quot;&gt;Apartment in Athens&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/apartment-in-athens/&quot; rel=&quot;nofollow&quot;&gt;Apartment in Athens&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>33 Adrianou</title>
-  <link href="http://l4a.gr/projects/33adrianou/"/>
+  <link href="/projects/33adrianou/"/>
   <updated>2014-06-23T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/33adrianou</id>
+  <id>/projects/33adrianou</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -782,15 +782,15 @@
   &lt;img src=&quot;http://l4a.gr/images/33adrianou-04.jpg&quot; alt=&quot;33 Adrianou&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/33adrianou/&quot; rel=&quot;nofollow&quot;&gt;33 Adrianou&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/33adrianou/&quot; rel=&quot;nofollow&quot;&gt;33 Adrianou&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>The Greek Pavilion at the 14th Biennale</title>
-  <link href="http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale/"/>
+  <link href="/projects/the-greek-pavilion-at-the-14th-biennale/"/>
   <updated>2014-06-18T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale</id>
+  <id>/projects/the-greek-pavilion-at-the-14th-biennale</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -834,15 +834,15 @@
   &lt;img src=&quot;http://l4a.gr/images/the-greek-pavilion-at-the-14th-biennale-05.jpg&quot; alt=&quot;The Greek Pavilion at the 14th Biennale&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/the-greek-pavilion-at-the-14th-biennale/&quot; rel=&quot;nofollow&quot;&gt;The Greek Pavilion at the 14th Biennale&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale/&quot; rel=&quot;nofollow&quot;&gt;The Greek Pavilion at the 14th Biennale&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Nikos Koulis, Mykonos</title>
-  <link href="http://l4a.gr/projects/nikos-koulis-mykonos/"/>
+  <link href="/projects/nikos-koulis-mykonos/"/>
   <updated>2014-05-27T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/nikos-koulis-mykonos</id>
+  <id>/projects/nikos-koulis-mykonos</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -879,15 +879,15 @@
   &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-03.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/nikos-koulis-mykonos/&quot; rel=&quot;nofollow&quot;&gt;Nikos Koulis, Mykonos&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/nikos-koulis-mykonos/&quot; rel=&quot;nofollow&quot;&gt;Nikos Koulis, Mykonos&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Royal Botania</title>
-  <link href="http://l4a.gr/articles/royal-botania/"/>
+  <link href="/articles/royal-botania/"/>
   <updated>2014-05-23T00:00:00+03:00</updated>
-  <id>http://l4a.gr/articles/royal-botania</id>
+  <id>/articles/royal-botania</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -900,15 +900,15 @@
 
 &lt;p&gt;Royal Botania uses superior natural materials: premium Javanese plantation teak, granite, stainless steel and glass. When placed outside all the Royal Botania lighting models integrate seamlessly into their natural environment. Most of the lamps are designed to use energy-saving light bulbs with low energy consumption or LEDs.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/royal-botania/&quot; rel=&quot;nofollow&quot;&gt;Royal Botania&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/royal-botania/&quot; rel=&quot;nofollow&quot;&gt;Royal Botania&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Tourism Landscapes: Remaking Greece</title>
-  <link href="http://l4a.gr/articles/architecture-biennale-2014/"/>
+  <link href="/articles/architecture-biennale-2014/"/>
   <updated>2014-05-22T00:00:00+03:00</updated>
-  <id>http://l4a.gr/articles/architecture-biennale-2014</id>
+  <id>/articles/architecture-biennale-2014</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -926,15 +926,15 @@
   &lt;li&gt;&lt;a href=&quot;link:https://www.facebook.com/tourismlandscapes&quot;&gt;facebook page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/articles/architecture-biennale-2014/&quot; rel=&quot;nofollow&quot;&gt;Tourism Landscapes: Remaking Greece&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/architecture-biennale-2014/&quot; rel=&quot;nofollow&quot;&gt;Tourism Landscapes: Remaking Greece&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Athens International Airport, central food court</title>
-  <link href="http://l4a.gr/projects/aia-central-food-court/"/>
+  <link href="/projects/aia-central-food-court/"/>
   <updated>2014-05-19T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/aia-central-food-court</id>
+  <id>/projects/aia-central-food-court</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -964,15 +964,15 @@
 	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-02.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/aia-central-food-court/&quot; rel=&quot;nofollow&quot;&gt;Athens International Airport, central food court&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/aia-central-food-court/&quot; rel=&quot;nofollow&quot;&gt;Athens International Airport, central food court&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Folli Follie Baselworld 2014</title>
-  <link href="http://l4a.gr/projects/folli-follie-baselworld-2014/"/>
+  <link href="/projects/folli-follie-baselworld-2014/"/>
   <updated>2014-04-14T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/folli-follie-baselworld-2014</id>
+  <id>/projects/folli-follie-baselworld-2014</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -1003,15 +1003,15 @@
   &lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-03.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/folli-follie-baselworld-2014/&quot; rel=&quot;nofollow&quot;&gt;Folli Follie Baselworld 2014&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/folli-follie-baselworld-2014/&quot; rel=&quot;nofollow&quot;&gt;Folli Follie Baselworld 2014&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
 <entry>
   <title>Links of London</title>
-  <link href="http://l4a.gr/projects/links-of-london/"/>
+  <link href="/projects/links-of-london/"/>
   <updated>2014-04-11T00:00:00+03:00</updated>
-  <id>http://l4a.gr/projects/links-of-london</id>
+  <id>/projects/links-of-london</id>
   <author>
     <name>L4A</name>
     <uri>http://l4a.gr/</uri>
@@ -1042,7 +1042,7 @@
   &lt;img src=&quot;http://l4a.gr/images/links-of-london-03.jpg&quot; alt=&quot;Links of London&quot; /&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/projects/links-of-london/&quot; rel=&quot;nofollow&quot;&gt;Links of London&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/links-of-london/&quot; rel=&quot;nofollow&quot;&gt;Links of London&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
