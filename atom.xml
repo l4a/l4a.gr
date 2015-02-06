@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-02-06T12:02:58+02:00</updated>
+<updated>2015-02-06T12:06:15+02:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -33,7 +33,7 @@
   <content type="html">
     &lt;img src=&quot;http://l4a.gr/images/new-showroom-featured.jpg&quot; alt=&quot;New Showroom feature&quot;&gt;&lt;br/&gt;
 
-    &lt;p&gt;Our new showroom at Marousi (&lt;a href=&quot;https://www.google.gr/maps/place/Andrea+Papandreou+13,+Marousi+151+24/@38.0438922,23.7962964,17z/data=!3m1!4b1!4m2!3m1!1s0x14a198c37f052749:0xfd35e46dc8328f18?hl=en&quot;&gt;13 Andrea Papandreou St., tel +30 210 600 5172, +30 211 182 9448&lt;/a&gt;) is ready and we’ll be glad to welcome you on working days between 9:00-18:00.&lt;/p&gt;
+    &lt;p&gt;Our new showroom at Marousi (&lt;a href=&quot;https://www.google.gr/maps/place/Andrea+Papandreou+13,+Marousi+151+24/@38.0438922,23.7962964,17z/data=!3m1!4b1!4m2!3m1!1s0x14a198c37f052749:0xfd35e46dc8328f18?hl=en&quot;&gt;13 Andrea Papandreou St., tel +30 210 600 5172, +30 211 182 9448&lt;/a&gt;) is ready and we’ll be glad to welcome you on working days between 9:00-18:00.{:.decrease}&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;http://l4a.gr/images/new-showroom-01.jpg&quot; alt=&quot;L4A showroom&quot; /&gt;
