@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-02-06T08:44:40+02:00</updated>
+<updated>2015-02-06T12:02:58+02:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -19,6 +19,29 @@
   <email>lightingforarchitecture@gmail.com</email>
 </author>
 
+
+<entry>
+  <title>New Showroom</title>
+  <link href="/articles/new-showroom/"/>
+  <updated>2015-02-06T11:38:57+02:00</updated>
+  <id>/articles/new-showroom</id>
+  <author>
+    <name>L4A</name>
+    <uri>http://l4a.gr/</uri>
+    <email>lightingforarchitecture@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;http://l4a.gr/images/new-showroom-featured.jpg&quot; alt=&quot;New Showroom feature&quot;&gt;&lt;br/&gt;
+
+    &lt;p&gt;Our new showroom at Marousi (&lt;a href=&quot;https://www.google.gr/maps/place/Andrea+Papandreou+13,+Marousi+151+24/@38.0438922,23.7962964,17z/data=!3m1!4b1!4m2!3m1!1s0x14a198c37f052749:0xfd35e46dc8328f18?hl=en&quot;&gt;13 Andrea Papandreou St., tel +30 210 600 5172, +30 211 182 9448&lt;/a&gt;) is ready and we’ll be glad to welcome you on working days between 9:00-18:00.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://l4a.gr/images/new-showroom-01.jpg&quot; alt=&quot;L4A showroom&quot; /&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/new-showroom/&quot; rel=&quot;nofollow&quot;&gt;New Showroom&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
 
 <entry>
   <title>Nike store at the Mall Athens</title>
@@ -1004,45 +1027,6 @@
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/folli-follie-baselworld-2014/&quot; rel=&quot;nofollow&quot;&gt;Folli Follie Baselworld 2014&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
-  </content>
-</entry>
-
-<entry>
-  <title>Links of London</title>
-  <link href="/projects/links-of-london/"/>
-  <updated>2014-04-11T00:00:00+03:00</updated>
-  <id>/projects/links-of-london</id>
-  <author>
-    <name>L4A</name>
-    <uri>http://l4a.gr/</uri>
-    <email>lightingforarchitecture@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;img src=&quot;http://l4a.gr/images/links-of-london-featured.jpg&quot; alt=&quot;Links of London feature&quot;&gt;&lt;br/&gt;
-
-    &lt;p&gt;Links of London is a leading aspirational British jewellery brand, offering striking jewellery collections, statement watches and a selection of exquisite gifts.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://www.follifollie.gr/&quot;&gt;Folli Follie Group&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architect: &lt;a href=&quot;http://www.linksoflondon.com/&quot;&gt;Charlotte Bates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Construction: Unistand SRL&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All images courtesy of Folli Follie. Used under permission.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/links-of-london-01.jpg&quot; alt=&quot;Links of London&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/links-of-london-02.jpg&quot; alt=&quot;Links of London&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/links-of-london-03.jpg&quot; alt=&quot;Links of London&quot; /&gt;
-&lt;/figure&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/links-of-london/&quot; rel=&quot;nofollow&quot;&gt;Links of London&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
