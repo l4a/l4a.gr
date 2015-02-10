@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-02-10T10:49:37+02:00</updated>
+<updated>2015-02-10T12:37:33+02:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -19,6 +19,29 @@
   <email>lightingforarchitecture@gmail.com</email>
 </author>
 
+
+<entry>
+  <title>The Product Book system</title>
+  <link href="/articles/the-product-book-system/"/>
+  <updated>2015-02-10T12:28:07+02:00</updated>
+  <id>/articles/the-product-book-system</id>
+  <author>
+    <name>L4A</name>
+    <uri>http://l4a.gr/</uri>
+    <email>lightingforarchitecture@gmail.com</email>
+  </author>
+  <content type="html">
+    
+    &lt;figure class=&quot;large&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Lcovyofvf38&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;figcaption&gt;The Product Book system&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.iguzzini.com/The_Product_Book_15_iguzzini_a_book_not_a_catalogue&quot;&gt;Learn more&lt;/a&gt;…&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/the-product-book-system/&quot; rel=&quot;nofollow&quot;&gt;The Product Book system&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
 
 <entry>
   <title>New Showroom</title>
@@ -988,45 +1011,6 @@
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/aia-central-food-court/&quot; rel=&quot;nofollow&quot;&gt;Athens International Airport, central food court&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
-  </content>
-</entry>
-
-<entry>
-  <title>Folli Follie Baselworld 2014</title>
-  <link href="/projects/folli-follie-baselworld-2014/"/>
-  <updated>2014-04-14T00:00:00+03:00</updated>
-  <id>/projects/folli-follie-baselworld-2014</id>
-  <author>
-    <name>L4A</name>
-    <uri>http://l4a.gr/</uri>
-    <email>lightingforarchitecture@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-featured.jpg&quot; alt=&quot;Folli Follie Baselworld 2014 feature&quot;&gt;&lt;br/&gt;
-
-    &lt;p&gt;Folli Follie Group participated in Baselworld, the world watch and jewellery show in Basel, Switzerland, from 8 to 15 March.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://www.follifollie.gr/&quot;&gt;Folli Follie Group&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architect: &lt;a href=&quot;http://www.kokkinoukourkoulas.com/&quot;&gt;Kokkinou + Kourkoulas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Construction: Unistand SRL&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All images courtesy of Folli Follie. Used under permission.&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-01.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-02.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/folli-follie-baselworld-2014-03.jpg&quot; alt=&quot;Folli Follie Baselworld 2014&quot; /&gt;
-&lt;/figure&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/folli-follie-baselworld-2014/&quot; rel=&quot;nofollow&quot;&gt;Folli Follie Baselworld 2014&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
