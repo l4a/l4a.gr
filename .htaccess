@@ -5,6 +5,7 @@
 # to the main server config file (usually called `httpd.conf`), you should add
 # this logic there: http://httpd.apache.org/docs/current/howto/htaccess.html.
 
+
 # ##############################################################################
 # # CROSS-ORIGIN RESOURCE SHARING (CORS)                                       #
 # ##############################################################################
@@ -84,6 +85,7 @@ ErrorDocument 404 /404/
         Header unset X-UA-Compatible
     </FilesMatch>
 </IfModule>
+
 
 # ##############################################################################
 # # MIME TYPES AND ENCODING                                                    #
@@ -273,6 +275,19 @@ AddDefaultCharset utf-8
  RewriteRule .* – [F,L]
 </IfModule>
 
+# Block access from semalt.com
+
+<IfModule mod_rewrite.c>
+  RewriteCond %{HTTP_REFERER} semalt\.com [NC]
+  RewriteRule .* – [F]
+</IfModule>
+
+# Block access from buttons-for-website.com
+
+<IfModule mod_rewrite.c>
+  RewriteCond %{HTTP_REFERER} buttons\-for\-website\.com
+  RewriteRule ^.* - [F,L]
+</IfModule>
 
 
 # ##############################################################################
@@ -392,6 +407,7 @@ FileETag None
     ExpiresByType image/svg+xml                         "access plus 1 month"
 
 </IfModule>
+
 
 # ##############################################################################
 # # REDIRECTS                                                                  #
