@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-03-23T11:50:59+02:00</updated>
+<updated>2015-03-26T10:06:20+02:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -19,6 +19,56 @@
   <email>lightingforarchitecture@gmail.com</email>
 </author>
 
+
+<entry>
+  <title>ReedSmith</title>
+  <link href="/projects/reedsmith/"/>
+  <updated>2015-03-23T12:51:36+02:00</updated>
+  <id>/projects/reedsmith</id>
+  <author>
+    <name>L4A</name>
+    <uri>http://l4a.gr/</uri>
+    <email>lightingforarchitecture@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;http://l4a.gr/images/reedsmith-featured.jpg&quot; alt=&quot;ReedSmith feature&quot;&gt;&lt;br/&gt;
+
+    &lt;p&gt;An integral part of Reed Smith’s European practice, the presence in Greece offers a unique position – to advise leading corporations on a variety of Greek matters and to provide clients with local and personal support, while they continually benefit from the firm’s international scope and experience.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://www.reedsmith.com/Greece-Greece/&quot;&gt;ReedSmith&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://www.rctech.gr&quot;&gt;R.C.TECH&lt;/a&gt; (Nassos E. Chamilothoris, Giannis Douridas, Christina Kontou, Dimitra Stathopoulou)&lt;/li&gt;
+  &lt;li&gt;Project Management: Constantinos Margaritis, Eva Gkani&lt;/li&gt;
+  &lt;li&gt;Construction Management: &lt;a href=&quot;http://www.rctech.gr&quot;&gt;R.C.TECH&lt;/a&gt; (Markos Douridas, Elias Kounis)&lt;/li&gt;
+  &lt;li&gt;Mechanical Engineering: &lt;a href=&quot;http://www.horos.gr&quot;&gt;Horos Engineering&lt;/a&gt; (Stamatis Karagiannis)&lt;/li&gt;
+  &lt;li&gt;Photos: &lt;a href=&quot;http://www.louisanikolaidou.com&quot;&gt;Louisa Nikolaidou Photography&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of R.C.TECH. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://l4a.gr/images/reedsmith-02.jpg&quot; alt=&quot;ReedSmith&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://l4a.gr/images/reedsmith-03.jpg&quot; alt=&quot;ReedSmith&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  	&lt;img src=&quot;http://l4a.gr/images/reedsmith-04.jpg&quot; alt=&quot;ReedSmith&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  	&lt;img src=&quot;http://l4a.gr/images/reedsmith-05.jpg&quot; alt=&quot;ReedSmith&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  	&lt;img src=&quot;http://l4a.gr/images/reedsmith-06.jpg&quot; alt=&quot;ReedSmith&quot; /&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/reedsmith/&quot; rel=&quot;nofollow&quot;&gt;ReedSmith&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
 
 <entry>
   <title>The Product Book system</title>
@@ -973,44 +1023,6 @@
 &lt;/ul&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/architecture-biennale-2014/&quot; rel=&quot;nofollow&quot;&gt;Tourism Landscapes: Remaking Greece&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
-  </content>
-</entry>
-
-<entry>
-  <title>Athens International Airport, central food court</title>
-  <link href="/projects/aia-central-food-court/"/>
-  <updated>2014-05-19T00:00:00+03:00</updated>
-  <id>/projects/aia-central-food-court</id>
-  <author>
-    <name>L4A</name>
-    <uri>http://l4a.gr/</uri>
-    <email>lightingforarchitecture@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-featured.jpg&quot; alt=&quot;Athens International Airport, central food court feature&quot;&gt;&lt;br/&gt;
-
-    &lt;p&gt;Athens International Airport, also known locally as “Eleftherios Venizelos” Airport, began operations on 29 March 2001 and is the primary civilian airport serving the city of Athens as well as the Attica region.&lt;/p&gt;
-
-&lt;p&gt;It is Greece’s largest airport and serves as the hub and base of Aegean Airlines and its subsidiary Olympic Air. The airport serves just under 13 million passengers annually.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://www.aia.gr/&quot;&gt;Athens International Airport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Architects: AIA, Fotini Ioannidou&lt;/li&gt;
-  &lt;li&gt;Electrical Engineers: AIA, Ilias Tsonos&lt;/li&gt;
-  &lt;li&gt;Construction: &lt;a href=&quot;http://www.agtgroup.gr&quot;&gt;AGT Construction &amp;amp; Service Group&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Photos: &lt;a href=&quot;https://www.behance.net/annaperela&quot;&gt;Anna Perela&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-01.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/aia-central-food-court-02.jpg&quot; alt=&quot;Athens International Airport, Central Food Court&quot; /&gt;
-&lt;/figure&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/aia-central-food-court/&quot; rel=&quot;nofollow&quot;&gt;Athens International Airport, central food court&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
