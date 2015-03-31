@@ -271,27 +271,13 @@ AddDefaultCharset utf-8
 # Block access from spam bots
 
 <IfModule mod_rewrite.c>
- RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
- RewriteRule .* – [F,L]
+  RewriteCond %{HTTP_USER_AGENT} libwww-perl.*
+  RewriteRule .* – [F,L]
 </IfModule>
 
 <IfModule mod_rewrite.c>
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?anticrawler\.org [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?bestwebsitesawards\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?blackhatworth\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?buttons-for-website\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?econom\.co [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?darodar\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?hulfingtonpost\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?humanorightswatch\.org [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?ilovevitaly\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?7makemoneyonline\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?o-o-6-o-o\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?priceg\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?social-buttons\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?semalt\.com [NC,OR]
-  RewriteCond %{HTTP_REFERER} ^([^.]+.)*?simple-share-buttons\.com [NC]
-  RewriteRule .* – [F]
+  RewriteCond %{HTTP_REFERER} (?:savetubevideo|srecorder|semalt|kambasoft|ilovevitaly|iloveitaly|net\.hts|priceg|darodar|econom|buttons\-for\-website|blackhatworth|hulfingtonpost|adviceforum)\.((?!\.).)*?$ [NC]
+  RewriteRule .* - [F]
 </IfModule>
 
 
