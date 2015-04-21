@@ -275,15 +275,21 @@ AddDefaultCharset utf-8
   RewriteRule .* – [F,L]
 </IfModule>
 
-<IfModule mod_rewrite.c>
-  RewriteCond %{HTTP_REFERER} semalt\.com [NC]
-  RewriteRule .* – [F]
-</IfModule>
+# Handle Spam bots
 
 <IfModule mod_rewrite.c>
-  RewriteEngine On
-  RewriteCond %{HTTP_REFERER} buttons\-for\-website\.com
-  RewriteRule ^.* - [F,L]
+  RewriteCond %{HTTP_REFERER} (semalt) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (buttons-for-website) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (buttons-for-your-website) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (best-seo-offer) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (best-seo-solution) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (buy-cheap-online) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (www.Get-Free-Traffic-Now) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (theguardlan) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (googlsucks) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (social-buttons) [NC,OR]
+  RewriteCond %{HTTP_REFERER} (simple-share-buttons) [NC]
+  RewriteRule .* – [F]
 </IfModule>
 
 
