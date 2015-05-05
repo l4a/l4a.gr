@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-05-04T19:26:19+03:00</updated>
+<updated>2015-05-05T22:02:12+03:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -19,6 +19,80 @@
   <email>lightingforarchitecture@gmail.com</email>
 </author>
 
+
+<entry>
+  <title>Its royal highness</title>
+  <link href="/articles/its-royal-highness/"/>
+  <updated>2015-05-05T17:06:07+03:00</updated>
+  <id>/articles/its-royal-highness</id>
+  <author>
+    <name>L4A</name>
+    <uri>http://l4a.gr/</uri>
+    <email>lightingforarchitecture@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;http://l4a.gr/images/royal-botania-collection-featured.jpg&quot; alt=&quot;Its royal highness feature&quot;&gt;&lt;br/&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.royalbotania.com/&quot;&gt;Royal Botania&lt;/a&gt; is a belgian company that (among others) manufactures high quality, well designed, outdoor lights, from superior natural materials.&lt;/p&gt;
+
+&lt;p&gt;Check out some beautiful highlights from its collection.&lt;/p&gt;
+
+&lt;ul class=&quot;th-grid&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-01.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-01-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-01-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-01-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-02.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-02-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-02-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-02-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-03.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-03-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-03-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-03-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-04.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-04-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-04-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-04-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;th-grid&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-05.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-05-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-05-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-05-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-06.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-06-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-06-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-06-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-07.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-07-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-07-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-07-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;http://l4a.gr/images/royal-botania-collection-08.jpg&quot; class=&quot;image-popup&quot;&gt;
+      &lt;img class=&quot;load&quot; src=&quot;/images/royal-botania-collection-08-150.jpg&quot; data-original=&quot;/images/royal-botania-collection-08-150.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;noscript&gt;&lt;img src=&quot;/images/royal-botania-collection-08-150.jpg&quot; alt=&quot;Royall Botania Lighting Collection&quot; /&gt;&lt;/noscript&gt;
+    &lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/its-royal-highness/&quot; rel=&quot;nofollow&quot;&gt;Its royal highness&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
 
 <entry>
   <title>ReedSmith</title>
@@ -1001,32 +1075,6 @@
 &lt;p&gt;Royal Botania uses superior natural materials: premium Javanese plantation teak, granite, stainless steel and glass. When placed outside all the Royal Botania lighting models integrate seamlessly into their natural environment. Most of the lamps are designed to use energy-saving light bulbs with low energy consumption or LEDs.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/royal-botania/&quot; rel=&quot;nofollow&quot;&gt;Royal Botania&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
-  </content>
-</entry>
-
-<entry>
-  <title>Tourism Landscapes: Remaking Greece</title>
-  <link href="/articles/architecture-biennale-2014/"/>
-  <updated>2014-05-22T00:00:00+03:00</updated>
-  <id>/articles/architecture-biennale-2014</id>
-  <author>
-    <name>L4A</name>
-    <uri>http://l4a.gr/</uri>
-    <email>lightingforarchitecture@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;img src=&quot;http://l4a.gr/images/architecture-biennale-2014-featured.jpg&quot; alt=&quot;Tourism Landscapes: Remaking Greece feature&quot;&gt;&lt;br/&gt;
-
-    &lt;p&gt;Greece will participate in the 14th International Architecture Exhibition - La Biennale di Venezia (07/06 - 23/11/2014). The Greek participation entitled &lt;em&gt;Tourism Landscapes: Remaking Greece&lt;/em&gt; is directed and curated by Greece’s National Commissioner for the Biennale, Architect and Professor Giannis Aisopos.&lt;/p&gt;
-
-&lt;p&gt;It explores the role of tourism as a vehicle for modernising Greece through the emergence of constructed tourism landscapes: hotels and resorts, organised beaches, archaeological sites and museums, public space designs and infrastructure facilities. Moreover, it focuses on the concurrent (re)shaping of Greek national identity, enhanced through contact with the &lt;em&gt;other&lt;/em&gt;, with foreign, new and global elements, which tourism – as an activity – presupposes. L4A and iGuzzini are special supporters.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;link:http://www.tourismlandscapes.gr/&quot;&gt;website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;link:https://www.facebook.com/tourismlandscapes&quot;&gt;facebook page&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/articles/architecture-biennale-2014/&quot; rel=&quot;nofollow&quot;&gt;Tourism Landscapes: Remaking Greece&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
