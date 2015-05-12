@@ -11,7 +11,7 @@
 <subtitle>We are an architectural lighting firm based in Athens, Greece.</subtitle>
 <link href="/atom.xml" rel="self"/>
 <link href="/" rel="alternate" type="text/html"/>
-<updated>2015-05-11T10:26:22+03:00</updated>
+<updated>2015-05-12T13:44:20+03:00</updated>
 <id>/</id>
 <author>
   <name>L4A</name>
@@ -19,6 +19,44 @@
   <email>lightingforarchitecture@gmail.com</email>
 </author>
 
+
+<entry>
+  <title>Byzantino</title>
+  <link href="/projects/byzantino/"/>
+  <updated>2015-05-12T12:49:43+03:00</updated>
+  <id>/projects/byzantino</id>
+  <author>
+    <name>L4A</name>
+    <uri>http://l4a.gr/</uri>
+    <email>lightingforarchitecture@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;http://l4a.gr/images/byzantino-featured.jpg&quot; alt=&quot;Byzantino feature&quot;&gt;&lt;br/&gt;
+
+    &lt;p&gt;Since 1987 “BYZANTINO” Jewelry is located in Plaka, the older neighborhood in Athens, in the foothills of Acropolis.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer: &lt;a href=&quot;http://www.byzantino.com/&quot;&gt;Byzantino&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Architects: &lt;a href=&quot;http://www.skmp.gr/&quot;&gt;Sarantis Katsouros - Maria Papadopoulou&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All images courtesy of Sarantis Katsouros - Maria Papadopoulou. Used under permission.&lt;/p&gt;
+
+&lt;figure&gt;
+  	&lt;img src=&quot;http://l4a.gr/images/byzantino-03.jpg&quot; alt=&quot;Byzantino&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://l4a.gr/images/byzantino-01.jpg&quot; alt=&quot;Byzantino&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://l4a.gr/images/byzantino-02.jpg&quot; alt=&quot;Byzantino&quot; /&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/byzantino/&quot; rel=&quot;nofollow&quot;&gt;Byzantino&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
 
 <entry>
   <title>Genius</title>
@@ -1041,51 +1079,6 @@
 &lt;/figure&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/the-greek-pavilion-at-the-14th-biennale/&quot; rel=&quot;nofollow&quot;&gt;The Greek Pavilion at the 14th Biennale&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
-  </content>
-</entry>
-
-<entry>
-  <title>Nikos Koulis, Mykonos</title>
-  <link href="/projects/nikos-koulis-mykonos/"/>
-  <updated>2014-05-27T00:00:00+03:00</updated>
-  <id>/projects/nikos-koulis-mykonos</id>
-  <author>
-    <name>L4A</name>
-    <uri>http://l4a.gr/</uri>
-    <email>lightingforarchitecture@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-featured.jpg&quot; alt=&quot;Nikos Koulis, Mykonos feature&quot;&gt;&lt;br/&gt;
-
-    &lt;p&gt;The inspiration behind the design for the first Nikos Koulis Jewels Boutique on Mykonos was the brand’s very own logo. Designed by Stage Design Office, Stavros Papagiannis and Giorgos Kyriazis, along with the brand owners, this new boutique has caused an international sensation. The austere and emblematic logo invokes religious symbolism and required the adoption of an ascetic aesthetic that makes multiple references to the Cycladic tradition.&lt;/p&gt;
-
-&lt;p&gt;The large stone floor slabs originating from the nearby island of Rineia, the vintage wooden door and the arches in the stone walls were preserved and combined with the ethereal cast-iron displays and the white marble surfaces, which allow daylight to diffuse into this once dark cellar space, thereby intensifying the emotional aspect as visitors discover and uncover the jewels inside. The marble counter reminds one of an altar where the jewels are showcased in &lt;em&gt;sacramental&lt;/em&gt; fashion, while the tailor-made pews from the same material, redefine the client’s stance towards the object of desire, establishing respect and proximity.&lt;/p&gt;
-
-&lt;p&gt;The boutique’s exterior follows the same intrinsic approach, with a discreet logo and a small suspended display, reflecting Nikos Koulis’ special philosophy.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Customer: &lt;a href=&quot;http://nikoskoulis.gr&quot;&gt;Nikos Koulis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Interior Design: &lt;a href=&quot;http://stagedesignoffice.com&quot;&gt;Stage Design Office&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Special Marble Items: &lt;a href=&quot;http://makeworkshop.eu&quot;&gt;Alexander Papadias&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Electrician: Dimitris Protopapadakis&lt;/li&gt;
-  &lt;li&gt;Photos: &lt;a href=&quot;http://greyimages.gr/&quot;&gt;Grey Studio&lt;/a&gt;, Panagiotis Baxevanis&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All images courtesy of Stage Design Office. Used under permission.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-04.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-02.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;http://l4a.gr/images/nikos-koulis-mykonos-03.jpg&quot; alt=&quot;Nikos Koulis, Mykonos&quot; /&gt;
-&lt;/figure&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://l4a.gr/projects/nikos-koulis-mykonos/&quot; rel=&quot;nofollow&quot;&gt;Nikos Koulis, Mykonos&lt;/a&gt; was originally published by &lt;a href=&quot;http://l4a.gr/about/&quot; rel=&quot;nofollow&quot;&gt;L4A&lt;/a&gt; on &lt;a href=&quot;http://l4a.gr&quot; rel=&quot;nofollow&quot;&gt;Lighting for Architecture&lt;/a&gt;.&lt;/p&gt;
   </content>
 </entry>
 
